@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "政治經濟學 · Political Economy"
+  description: "國家、市場與社會：從亞當・斯密與馬克思出發"
+  site-url: "https://cmt421-alt.github.io/political-economy/"
+  navbar:
+    background: "#173a48"
+    left:
+      - href: index.qmd
+        text: 首頁
+      - href: smith.qmd
+        text: 亞當・斯密
+      - href: marx.qmd
+        text: 卡爾・馬克思
+      - href: compare.qmd
+        text: 理論比較
+      - href: readings.qmd
+        text: 文獻資源
+      - href: about.qmd
+        text: 關於本站
+  search: true
+  page-footer:
+    left: "政治經濟學教學網站 · 試行版 v0.1"
+bibliography: references.bib
+format:
+  html:
+    theme: cosmo
+    css: styles/site.css
+    toc: true
+    lang: zh-TW
+    link-external-newwindow: true

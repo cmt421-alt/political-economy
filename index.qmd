@@ -1,0 +1,55 @@
+---
+title: "國家、市場與社會"
+subtitle: "Political Economy Learning Hub"
+---
+
+::: {.hero}
+# 市場如何創造財富？又為何產生權力與衝突？
+
+從 Adam Smith 與 Karl Marx 出發，以理論、制度、歷史和當代案例理解政治經濟學。
+
+[開始閱讀亞當・斯密](smith.qmd){.btn .btn-primary} [比較 Smith 與 Marx](compare.qmd){.btn .btn-outline-primary}
+:::
+
+## 三個核心問題
+
+::: {.columns}
+::: {.column width="33%"}
+### 市場如何協調？
+
+分工、交換、價格與制度。
+
+[亞當・斯密 →](smith.qmd)
+:::
+::: {.column width="33%"}
+### 資本主義如何產生衝突？
+
+階級、生產關係、積累與異化。
+
+[卡爾・馬克思 →](marx.qmd)
+:::
+::: {.column width="33%"}
+### 國家如何塑造市場？
+
+法律、權力、產業政策與制度變遷。
+
+[理論比較 →](compare.qmd)
+:::
+:::
+
+## 課程地圖
+
+| 單元 | 主要學者與議題 | 狀態 |
+|---|---|---|
+| I. 古典政治經濟學 | Smith、Marx、比較 | **已開放** |
+| II. 國家、市場與社會 | List、Polanyi | 規劃中 |
+| III. 新制度與經濟社會學 | Coase、North、Williamson、Granovetter、Fligstein | 規劃中 |
+| IV. 工業化與資本主義類型 | Gerschenkron、Evans、Hall、Soskice | 規劃中 |
+| V. 發展政治經濟學 | 依賴理論、東亞新興工業化 | 規劃中 |
+| VI. 當代政治經濟 | 全球化、半導體、AI、金融監理、中國經濟 | 規劃中 |
+
+## 2026 年閱讀焦點
+
+1776 年出版的 *The Wealth of Nations* 至今正好 250 年。重新閱讀 Smith 時，應把市場分工與《道德情操論》中的社會規範放在一起，而不是將其簡化為「政府愈少愈好」。
+
+本站以課程筆記為起點，分別標示原典主張、學術詮釋、批評與當代應用。最後整理：2026 年 11 月。

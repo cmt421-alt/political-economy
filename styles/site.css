@@ -1,0 +1,8 @@
+:root { --pe-ink:#173a48; --pe-accent:#d7a455; }
+body {font-family:"Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif; line-height:1.85;}
+h1,h2,h3 {color:var(--pe-ink);}
+.navbar {background:var(--pe-ink)!important;}
+.hero {padding:3rem 2.5rem; background:#f0f5f5; border-radius:1rem; margin-bottom:2.5rem;}
+.hero h1 {font-size:clamp(2rem,4vw,3rem);line-height:1.3;}
+.table {font-size:.95rem;}
+a {text-underline-offset:3px;}

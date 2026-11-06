@@ -3,31 +3,41 @@ project:
   output-dir: _site
 website:
   title: "政治經濟學 · Political Economy"
-  description: "國家、市場與社會：從亞當・斯密與馬克思出發"
+  description: "國家、市場與社會：理論、制度、發展與當代議題"
   site-url: "https://cmt421-alt.github.io/political-economy/"
   navbar:
-    background: "#173a48"
+    background: "#173347"
+    foreground: "#ffffff"
+    pinned: true
+    search: true
     left:
       - href: index.qmd
         text: 首頁
-      - href: smith.qmd
-        text: 亞當・斯密
-      - href: marx.qmd
-        text: 卡爾・馬克思
-      - href: compare.qmd
-        text: 理論比較
+      - text: 經典思想
+        menu:
+          - href: smith.qmd
+            text: "01 · Adam Smith"
+          - href: marx.qmd
+            text: "02 · Karl Marx"
+          - href: compare.qmd
+            text: "03 · 理論比較"
       - href: readings.qmd
-        text: 文獻資源
+        text: 原典與文獻
       - href: about.qmd
-        text: 關於本站
-  search: true
+        text: 教學理念
   page-footer:
-    left: "政治經濟學教學網站 · 試行版 v0.1"
+    border: true
+    left: "© Political Economy Learning Hub · 教學試行版 v0.2"
+    right: "原典 · 論證 · 比較 · 當代應用"
+  search: true
 bibliography: references.bib
 format:
   html:
     theme: cosmo
     css: styles/site.css
-    toc: true
     lang: zh-TW
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    smooth-scroll: true
     link-external-newwindow: true

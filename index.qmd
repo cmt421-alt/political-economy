@@ -1,55 +1,162 @@
 ---
-title: "國家、市場與社會"
-subtitle: "Political Economy Learning Hub"
+title: "政治經濟學 Political Economy"
+subtitle: "國家、市場與社會"
+page-layout: full
+toc: false
+title-block-banner: false
 ---
 
-::: {.hero}
-# 市場如何創造財富？又為何產生權力與衝突？
+::: {.home-wrap}
 
-從 Adam Smith 與 Karl Marx 出發，以理論、制度、歷史和當代案例理解政治經濟學。
-
-[開始閱讀亞當・斯密](smith.qmd){.btn .btn-primary} [比較 Smith 與 Marx](compare.qmd){.btn .btn-outline-primary}
+::: {.hero-home}
+::: {.hero-kicker}
+POLITICAL ECONOMY · OPEN LEARNING
 :::
 
-## 三個核心問題
+# 理解市場，也理解塑造市場的權力。
 
-::: {.columns}
-::: {.column width="33%"}
+從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較與 AI 時代的政治經濟問題放在同一張知識地圖上。
+
+[開始學習 Smith](smith.qmd){.btn .btn-light .btn-lg} [探索 Marx](marx.qmd){.btn .btn-outline-light .btn-lg} [進行理論比較](compare.qmd){.btn .btn-outline-light .btn-lg}
+
+::: {.hero-tags}
+<span>經典原典</span><span>學術爭論</span><span>比較制度</span><span>當代案例</span>
+:::
+:::
+
+::: {.section-heading}
+<span class="eyebrow">START HERE</span>
+
+## 兩個思想起點，一個共同問題
+
+市場如何帶來前所未有的財富，同時也改變社會關係與政治權力？
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-lg-6}
+::: {.feature-card .smith-card}
+<div class="card-topline">01 · CLASSICAL POLITICAL ECONOMY</div>
+
+<div class="figure-mark">AS</div>
+
+### Adam Smith
+
+#### 市場、分工與道德
+
+市場如何在缺乏中央指揮的情況下協調分工？自利與道德情感如何同時構成商業社會？
+
+<span class="tag">看不見的手</span><span class="tag">勞動分工</span><span class="tag">道德情操</span>
+
+[進入斯密單元 →](smith.qmd)
+:::
+:::
+::: {.g-col-12 .g-col-lg-6}
+::: {.feature-card .marx-card}
+<div class="card-topline">02 · CRITIQUE OF POLITICAL ECONOMY</div>
+
+<div class="figure-mark">KM</div>
+
+### Karl Marx
+
+#### 資本、勞動與階級
+
+資本主義為何推動生產力，也產生剝削、異化與階級衝突？經濟關係如何形成政治權力？
+
+<span class="tag">剩餘價值</span><span class="tag">階級衝突</span><span class="tag">資本積累</span>
+
+[進入馬克思單元 →](marx.qmd)
+:::
+:::
+:::
+
+::: {.section-heading}
+<span class="eyebrow">ANALYTICAL LENSES</span>
+
+## 三個貫穿全課程的核心問題
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.concept-card .concept-gold}
+<div class="concept-icon">01</div>
+
 ### 市場如何協調？
 
-分工、交換、價格與制度。
-
-[亞當・斯密 →](smith.qmd)
+交易、價格與專業化如何形成非預期的秩序？制度與規則在其中扮演什麼角色？
 :::
-::: {.column width="33%"}
-### 資本主義如何產生衝突？
-
-階級、生產關係、積累與異化。
-
-[卡爾・馬克思 →](marx.qmd)
 :::
-::: {.column width="33%"}
+::: {.g-col-12 .g-col-md-4}
+::: {.concept-card .concept-red}
+<div class="concept-icon">02</div>
+
+### 財富如何分配？
+
+生產力成長如何轉化為工資、利潤、財產權與不同階級的政治影響力？
+:::
+:::
+::: {.g-col-12 .g-col-md-4}
+::: {.concept-card .concept-teal}
+<div class="concept-icon">03</div>
+
 ### 國家如何塑造市場？
 
-法律、權力、產業政策與制度變遷。
-
-[理論比較 →](compare.qmd)
+市場是自然形成，還是由法律、國家能力、企業策略與社會規範共同建構？
 :::
 :::
+:::
 
-## 課程地圖
+::: {.section-heading}
+<span class="eyebrow">COURSE ROADMAP</span>
 
-| 單元 | 主要學者與議題 | 狀態 |
-|---|---|---|
-| I. 古典政治經濟學 | Smith、Marx、比較 | **已開放** |
-| II. 國家、市場與社會 | List、Polanyi | 規劃中 |
-| III. 新制度與經濟社會學 | Coase、North、Williamson、Granovetter、Fligstein | 規劃中 |
-| IV. 工業化與資本主義類型 | Gerschenkron、Evans、Hall、Soskice | 規劃中 |
-| V. 發展政治經濟學 | 依賴理論、東亞新興工業化 | 規劃中 |
-| VI. 當代政治經濟 | 全球化、半導體、AI、金融監理、中國經濟 | 規劃中 |
+## 從古典思想走向當代政治經濟學
+:::
 
-## 2026 年閱讀焦點
+<div class="roadmap">
+  <div><span>I</span><strong>古典政治經濟學</strong><small>Smith · Marx · Ricardo</small><em>已開放</em></div>
+  <div><span>II</span><strong>國家、市場與社會</strong><small>List · Polanyi</small><em>陸續建置</em></div>
+  <div><span>III</span><strong>制度、社會網絡與權力</strong><small>North · Williamson · Granovetter · Fligstein</small><em>陸續建置</em></div>
+  <div><span>IV</span><strong>工業化與資本主義多樣性</strong><small>Gerschenkron · Johnson · Evans · Hall & Soskice</small><em>陸續建置</em></div>
+  <div><span>V</span><strong>發展與國際政治經濟</strong><small>依賴理論 · 東亞經濟發展 · 全球化</small><em>陸續建置</em></div>
+  <div><span>VI</span><strong>當代產業與科技治理</strong><small>半導體 · AI · 金融監理 · 中國經濟</small><em>陸續建置</em></div>
+</div>
 
-1776 年出版的 *The Wealth of Nations* 至今正好 250 年。重新閱讀 Smith 時，應把市場分工與《道德情操論》中的社會規範放在一起，而不是將其簡化為「政府愈少愈好」。
+::: {.home-highlight}
+<span class="eyebrow">2026 · THE WEALTH OF NATIONS AT 250</span>
 
-本站以課程筆記為起點，分別標示原典主張、學術詮釋、批評與當代應用。最後整理：2026 年 11 月。
+## 《國富論》出版 250 週年：重新思考市場的邊界
+
+1776 年的市場分工理論，如何幫助我們理解全球半導體供應鏈？1844 年的異化概念，又能否用來研究演算法管理下的勞動？
+
+[Smith × Marx：比較兩套提問方式 →](compare.qmd)
+:::
+
+::: {.section-heading}
+<span class="eyebrow">PRIMARY SOURCES</span>
+
+## 從原典閱讀開始
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.resource-card}
+**Adam Smith Works**
+
+《國富論》與《道德情操論》全文、讀書會與閱讀指南。
+
+[閱讀 Adam Smith Works](https://www.adamsmithworks.org/)
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.resource-card}
+**Marxists Internet Archive**
+
+《資本論》、1844 年手稿及《共產黨宣言》的文字資源。
+
+[閱讀 Marxists Internet Archive](https://www.marxists.org/)
+:::
+:::
+:::
+
+<p class="source-note">教材分開標示「原始課堂筆記」、「原典解讀」、「後續學術詮釋」及「當代應用」。資料更新需註明來源與時間。最後修訂：2026 年 11 月。</p>
+
+:::

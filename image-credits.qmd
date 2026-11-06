@@ -1,0 +1,32 @@
+---
+title: "圖片來源與授權"
+subtitle: "Image credits, provenance and reuse"
+---
+
+本站以**來源可追溯、授權可查核**為原則。圖片旁與本頁都提供原始檔案連結；不以「網路公開可見」推定可任意重製，也不以單純標註出處代替取得必要授權。
+
+## 已使用的圖片
+
+| 圖片 | 創作者與年代 | 原始來源 | 權利標示與使用方式 |
+|---|---|---|---|
+| Adam Smith 肖像（歷史版畫） | 根據 James Tassie 1787 年浮雕；版畫作者有 Cadell and Davies、John Horsburgh 或 R. C. Bell 等不同記載；19 世紀製作 | [Wikimedia Commons：AdamSmith.jpg](https://commons.wikimedia.org/wiki/File:AdamSmith.jpg) | Commons 標示為 **Public Domain（公有領域）**。本站以外部原檔連結展示，沒有聲稱獨占授權。 |
+| Karl Marx 肖像 | John Mayall，約 1875 年 | [Wikimedia Commons：Karl Marx by Mayall, c1870.png](https://commons.wikimedia.org/wiki/File:Karl_Marx_by_Mayall,_c1870.png) | Commons 標示為 **Public Domain（公有領域）**。本站以外部原檔連結展示，沒有聲稱獨占授權。 |
+
+圖片來源與權利資訊最後人工核對日期：**2026-11-06**。如 Commons 的檔案資訊、授權或版本有所變更，應以原始檔案頁面及適用法律再次確認。公有領域狀態可能因國家、作品與攝影重製方式而有差異。
+
+## 本站採用的圖片使用規範
+
+1. **優先選擇公有領域、CC0、CC BY 或 CC BY-SA**，並逐張查核圖檔頁面的權利標記；不是所有 Wikimedia Commons 圖片都是公有領域。
+2. **保留作者、作品名稱、來源網址、授權名稱與修改紀錄**。使用 CC BY/CC BY-SA 圖像時，會依具體版本條款提供授權連結、必要的署名與修改說明。
+3. **圖像與教材分開引用**。人物肖像的出處不能替代《國富論》或《資本論》的文獻引用，文獻出處也不能替代圖片授權。
+4. **原始網站的圖像不直接視為可重製**。如 Adam Smith Works、Marxists Internet Archive 的圖片與文字，優先提供閱讀連結，除非其個別材料授權允許再利用。
+5. **不擅自複製新聞攝影、出版社書封或有浮水印的圖片**。若未能確認權利資訊，先不刊登。
+6. **考量外部圖像的穩定性**。目前肖像使用 Wikimedia Commons 的外部圖片連結；若未來改為存放於 GitHub，仍應保留相同授權記錄。
+
+## 相關資源
+
+- [Wikimedia Commons 重複使用內容指引](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia)
+- [Creative Commons 授權解說](https://creativecommons.org/share-your-work/cclicenses/)
+- [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/)
+
+**提醒：** 學術引用與著作權授權是不同問題。即使完整標註作者與出處，如果作品仍受到著作權保護，重製或公開傳輸可能仍須取得授權，或另有適用的法定例外。

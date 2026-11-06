@@ -11,6 +11,8 @@ subtitle: "Karl Marx · 1818–1883"
 從生產方式、剩餘價值、勞動異化與階級權力，理解現代資本主義的運作與變遷。
 :::
 
+<figure class="lesson-portrait"><a href="https://commons.wikimedia.org/wiki/File:Karl_Marx_by_Mayall,_c1870.png"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_by_Mayall,_c1870.png" alt="卡爾・馬克思肖像照片，約1875年" loading="lazy"></a><figcaption>Karl Marx（約 1875 年）。攝影：John Mayall（依 Commons 檔案頁記載）；來源：<a href="https://commons.wikimedia.org/wiki/File:Karl_Marx_by_Mayall,_c1870.png">Wikimedia Commons</a>；公有領域（Public Domain）。</figcaption></figure>
+
 <div class="keybox">
 <div><strong>核心概念</strong>生產關係、剩餘價值、異化、階級</div>
 <div><strong>核心原典</strong>1844 手稿、1848 宣言、1867《資本論》</div>

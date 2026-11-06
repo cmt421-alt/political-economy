@@ -11,6 +11,8 @@ subtitle: "Adam Smith · 1723–1790"
 從勞動分工與市場協調出發，理解自由交換背後的法律、道德與政治制度。
 :::
 
+<figure class="lesson-portrait"><a href="https://commons.wikimedia.org/wiki/File:AdamSmith.jpg"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/AdamSmith.jpg" alt="亞當・斯密歷史肖像版畫，源自 James Tassie 1787 年浮雕" loading="lazy"></a><figcaption>Adam Smith 肖像：以 James Tassie 1787 年作品為基礎的歷史版畫；原始版畫作者存在多種記載。來源：<a href="https://commons.wikimedia.org/wiki/File:AdamSmith.jpg">Wikimedia Commons</a>；公有領域（Public Domain）。</figcaption></figure>
+
 <div class="keybox">
 <div><strong>核心概念</strong>自利、勞動分工、看不見的手</div>
 <div><strong>核心原典</strong>1759《道德情操論》、1776《國富論》</div>

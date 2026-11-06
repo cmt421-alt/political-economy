@@ -23,6 +23,8 @@ website:
             text: "03 · 理論比較"
       - href: readings.qmd
         text: 原典與文獻
+      - href: image-credits.qmd
+        text: 圖片來源
       - href: about.qmd
         text: 教學理念
   page-footer:

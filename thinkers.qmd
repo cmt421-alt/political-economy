@@ -100,7 +100,7 @@ subtitle: "與 Niall Kishtainy《A Little History of Economics》對話"
 :::
 ::: {.g-col-12 .g-col-md-6}
 ::: {.thinker-chip}
-**Amartya Sen (1933–2023)**
+**Amartya Sen (1933– )**
 
 <small>能力方法 · 飢荒與權利 · 發展作為自由</small>
 

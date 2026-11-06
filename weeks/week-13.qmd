@@ -1,14 +1,14 @@
 ---
-title: "13｜比較資本主義的爭論：美國、德國與日本"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 13 講｜美國、德國與日本：資本主義的三種面貌"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-marx}
-<span class="lesson-eyebrow">WEEK 13 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 13 · POLITICAL ECONOMY</span>
 
 ## 制度是否隨全球化趨同，還是沿既有道路調整？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+美國的勞動流動、德國的企業治理與日本的供應商網絡，為何會形成不同的經濟運作方式？
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>制度調整</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 三國制度比較
 
@@ -36,22 +32,24 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 
 原始比較筆記強調制度有持續性，但新制度研究也提醒我們：二分理想類型可能忽略混合制度、權力衝突與制度轉型。應把是否趨同視為實證問題，而非預設答案。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 制度是否隨全球化趨同，還是沿既有道路調整？ |
-| 理論機制 | 勞資關係、金融體系、制度調整 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 出發的問題 | 制度是否隨全球化趨同，還是沿既有道路調整？ | | 核心觀念 | 勞資關係、金融體系、制度調整 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+Caporaso 與 Levine 的《Theories of Political Economy》從古典、馬克思、新古典、凱因斯、權力中心、國家中心與正義等進路提出不同問題。本講邀請讀者比較：如何重新界定同一件經濟事件，以及哪種解釋需要什麼證據？[@caporaso1992]
+
+## 延伸閱讀
 
 - Hancké (ed.), Debating Varieties of Capitalism (2009), Introduction and Chapters 4, 5, 8, 9.
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 日本企業制度在改革後有哪些連續性與斷裂？
 2. 如何研究金融體系與職業訓練制度的互補性？
@@ -63,4 +61,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `Week 11 Varieties of Capitalism 2(1).docx`
 - `VoC.docx`
 
-[返回每週課程總覽](../course.qmd) · [上一週](week-12.qmd) · [下一週](week-14.qmd)
+[返回十八講總覽](../course.qmd) · [上一講](week-12.qmd) · [下一講](week-14.qmd)

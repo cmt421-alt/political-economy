@@ -1,14 +1,14 @@
 ---
-title: "15｜發展困境：國家能力、財產權與自由"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 15 講｜窮國為何不容易變富？"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">WEEK 15 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 15 · POLITICAL ECONOMY</span>
 
 ## 貧窮國家缺乏的是市場自由，還是建立市場的制度能力？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+發展不只是蓋工廠或吸引投資，也涉及社會秩序、財產權、國家能力與人的實質自由。
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>發展作為自由</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 政治秩序與制度基礎
 
@@ -36,25 +32,27 @@ de Soto 強調財產權和正式法律制度對參與市場的重要性；筆記
 
 Sen 將政治自由及人們實質能力帶入發展評價，補充只看所得、投資或工業化的框架。這也使不同發展策略的政治代價成為核心研究問題。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 貧窮國家缺乏的是市場自由，還是建立市場的制度能力？ |
-| 理論機制 | 國家能力、財產權、發展作為自由 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 出發的問題 | 貧窮國家缺乏的是市場自由，還是建立市場的制度能力？ | | 核心觀念 | 國家能力、財產權、發展作為自由 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+Caporaso 與 Levine 的《Theories of Political Economy》從古典、馬克思、新古典、凱因斯、權力中心、國家中心與正義等進路提出不同問題。本講邀請讀者比較：如何重新界定同一件經濟事件，以及哪種解釋需要什麼證據？[@caporaso1992]
+
+## 延伸閱讀
 
 - Barma and Vogel (2008), pp. 425–482 (Lal, Chaudhry, de Soto).
 - Stiglitz, Globalization and Its Discontents (2002), pp. 53–88.
 - Rodrik, One Economics, Many Recipes (2007), pp. 13–55, 99–192.
 - Landes, The Wealth and Poverty of Nations (1999), pp. 512–524.
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 正式產權改革能否取代行政能力與社會信任？
 2. 若兩國 GDP 成長相同，Sen 會建議如何比較發展成果？
@@ -64,4 +62,4 @@ Sen 將政治自由及人們實質能力帶入發展評價，補充只看所得�
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 15 Development Strategies and Predicaments(1).docx`
 
-[返回每週課程總覽](../course.qmd) · [上一週](week-14.qmd) · [下一週](week-16.qmd)
+[返回十八講總覽](../course.qmd) · [上一講](week-14.qmd) · [下一講](week-16.qmd)

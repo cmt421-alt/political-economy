@@ -64,4 +64,4 @@ Vogel 的 Freer Markets, More Rules 提醒我們，解除部分經濟管制不�
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 13 Regulation, Deregulation, Reregulation(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-13.qmd) · [下一週](weeks/week-15.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-13.qmd) · [下一週](week-15.qmd)

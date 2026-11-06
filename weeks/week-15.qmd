@@ -64,4 +64,4 @@ Sen 將政治自由及人們實質能力帶入發展評價，補充只看所得�
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 15 Development Strategies and Predicaments(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-14.qmd) · [下一週](weeks/week-16.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-14.qmd) · [下一週](week-16.qmd)

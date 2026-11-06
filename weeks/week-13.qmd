@@ -63,4 +63,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `Week 11 Varieties of Capitalism 2(1).docx`
 - `VoC.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-12.qmd) · [下一週](weeks/week-14.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-12.qmd) · [下一週](week-14.qmd)

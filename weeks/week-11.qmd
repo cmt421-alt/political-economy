@@ -64,4 +64,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `CPE as research agenda.docx`
 - `Week 10 Varieties of Capitalism 1(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-10.qmd) · [下一週](weeks/week-12.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-10.qmd) · [下一週](week-12.qmd)

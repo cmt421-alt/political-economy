@@ -63,4 +63,4 @@ North 以制度規則、財產權、資訊及執行成本解釋交換及長期�
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 5 ES & NIE.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-06.qmd) · [下一週](weeks/week-08.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-06.qmd) · [下一週](week-08.qmd)

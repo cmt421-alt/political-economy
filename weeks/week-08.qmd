@@ -66,4 +66,4 @@ Evans 強調國家需要有別於私人利益的自主能力，同時與企業�
 - `NIEs.docx`
 - `Week 14 Dependency Theory and the Newly Industrializing Economies(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-07.qmd) · [下一週](weeks/week-09.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-07.qmd) · [下一週](week-09.qmd)

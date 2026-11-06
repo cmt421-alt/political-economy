@@ -64,4 +64,4 @@ Pierson 談遞增報酬與制度自我強化；Capoccia 與 Kelemen 強調關鍵
 - `CPE-Fall-2014-Syllabus.docx`
 - `Neo-Institutionalism.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-09.qmd) · [下一週](weeks/week-11.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-09.qmd) · [下一週](week-11.qmd)

@@ -65,4 +65,4 @@ VoC 框架提出一個問題：同樣面對跨境競爭，企業是否更可能�
 - `Week 17 Globalization and IT Revolution.docx`
 - `Week 16 China's Economic Development.pptx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-16.qmd) · [下一週](weeks/week-18.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-16.qmd) · [下一週](week-18.qmd)

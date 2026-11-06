@@ -62,4 +62,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `CPE as research agenda.docx`
 - `Neo-Institutionalism.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-17.qmd) · [回首頁](index.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-17.qmd) · [回首頁](../index.qmd)

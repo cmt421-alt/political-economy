@@ -1,0 +1,67 @@
+---
+title: "16｜後共產主義轉型：震盪療法與漸進改革"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 16 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 建立市場制度有沒有最佳改革順序？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>震盪療法</div>
+<div><strong>核心概念 B</strong>漸進主義</div>
+<div><strong>核心概念 C</strong>改革順序</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 兩種改革邏輯
+
+原始筆記區分 shock therapy 與 gradualism。前者將總體穩定、價格自由化與私有化盡可能同時進行；後者重視制度條件、改革順序與逐步試驗。應分別分析各項政策，而非把二者變成簡單道德評價。
+
+### 2. 俄羅斯與中國的制度條件
+
+課綱以俄羅斯企業集團與國家權力、以及中國地方分權和財政誘因為閱讀材料，觀察所有權制度、行政能力與地方誘因如何改變改革結果。
+
+### 3. 漸進主義的限制
+
+筆記特別指出漸進改革可能先處理較容易的問題，把困難改革延後；但全面快速改革亦可能在規則尚未形成時帶來治理缺口。這是比較制度轉型的核心兩難。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 建立市場制度有沒有最佳改革順序？ |
+| 理論機制 | 震盪療法、漸進主義、改革順序 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Barma and Vogel (2008), pp. 355–398 (Sachs, Stiglitz).
+- Barnes, Russia’s New Business Groups and State Power (2003).
+- Qian, How Reform Worked in China (2003).
+- Jin, Qian, and Weingast, Regional Decentralization and Fiscal Incentives (2005).
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 要比較改革成敗，應控制哪些改革前制度條件？
+2. 中國的地方分權如何同時產生改革誘因與協調成本？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 16 Post-Socialist Transition(1).docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-15.qmd) · [下一週](weeks/week-17.qmd)

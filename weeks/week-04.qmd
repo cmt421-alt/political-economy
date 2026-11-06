@@ -1,0 +1,65 @@
+---
+title: "04｜國家干預與新自由主義：List、Hayek、Friedman"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 04 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 自由貿易的短期效率，是否必然帶來後進國家的長期生產力？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>生產力</div>
+<div><strong>核心概念 B</strong>幼稚產業</div>
+<div><strong>核心概念 C</strong>價格知識</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. List 對 Smith 的批評
+
+List 強調國家的長期生產能力，不應只以某一時點的交換利益衡量政策。他支持保護仍在學習中的產業，也認為後進國家與領先國家的政策選擇未必相同。您筆記將 Hamilton 與 Jefferson 之爭作為理解工業保護政策的歷史比較。
+
+### 2. Hayek 與市場知識
+
+Hayek 強調分散在社會各處的知識難以由中央機關完整掌握，市場價格提供某種協調機制。這與 List 對國家策略的期待構成爭論，卻不表示政策的選擇只有「全面保護」或「全面自由放任」。
+
+### 3. Friedman 和政府角色
+
+Friedman 的政策立場與貨幣主義可與 Hayek 的知識問題區分。思考政策介入時，應比較政府失靈、尋租、學習外部性與資訊約束，而非把所有自由主義論者視為同一理論。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 自由貿易的短期效率，是否必然帶來後進國家的長期生產力？ |
+| 理論機制 | 生產力、幼稚產業、價格知識 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Barma and Vogel (2008), pp. 63–86, 91–116 (List, Hayek, Friedman).
+- Hirschman, Rival Views of Market Society (1986), pp. 105–141.
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 保護產業需要什麼退出條件才不至於形成永久補貼？
+2. 對於產業政策，List 和 Hayek 各自認為最值得擔心的是什麼？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 4 List & Polanyi(1).docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-03.qmd) · [下一週](weeks/week-05.qmd)

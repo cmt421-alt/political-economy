@@ -1,0 +1,67 @@
+---
+title: "14｜管制、解除管制與再管制"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 14 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 市場自由化是否意味政府退場，還是改變治理形式？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>經濟管制</div>
+<div><strong>核心概念 B</strong>社會管制</div>
+<div><strong>核心概念 C</strong>再管制</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 兩種管制的不同
+
+原筆記區分經濟管制與社會管制：前者常涉及價格、進入與競爭，後者常與安全、環境、消費者保護相關。不同管制可能對競爭和社會風險產生不同方向的效果。
+
+### 2. 自由化與再管制
+
+Vogel 的 Freer Markets, More Rules 提醒我們，解除部分經濟管制不一定減少規則的總量；政府可能改以競爭法、資訊揭露、金融審慎監理等方式維繫市場秩序。
+
+### 3. 監管俘虜與風險
+
+監理機關可能受既有產業影響，金融保險與風險承擔又涉及道德風險。分析改革成效時，應比較市場參與者行為與監理能力，而非只數法規增減。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 市場自由化是否意味政府退場，還是改變治理形式？ |
+| 理論機制 | 經濟管制、社會管制、再管制 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Majone, The Rise of the Regulatory State in Europe (1994).
+- Majone, From the Positive to the Regulatory State (1997).
+- Vogel, Freer Markets, More Rules (1996), Chapter 1.
+- Baldwin and Cave, Understanding Regulation (1999), pp. 25–42.
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 自由化與私有化是相同政策嗎？
+2. 為何解除價格管制後仍可能需要更多競爭與金融規則？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 13 Regulation, Deregulation, Reregulation(1).docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-13.qmd) · [下一週](weeks/week-15.qmd)

@@ -1,0 +1,66 @@
+---
+title: "07｜新制度經濟學：Coase、North、Williamson"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 07 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 既然有市場交易，為什麼企業仍然存在？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>交易成本</div>
+<div><strong>核心概念 B</strong>財產權</div>
+<div><strong>核心概念 C</strong>資產專用性</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. Coase 的企業邊界
+
+市場交換必須搜尋資訊、協商與執行契約。當企業內部組織可降低某些交易成本時，活動便可能移到企業內部；反之可交由市場安排。
+
+### 2. North 與制度變遷
+
+North 以制度規則、財產權、資訊及執行成本解釋交換及長期發展。筆記也提出批評：不能假設制度變遷必然走向效率，政治權力可能維持低效率安排。
+
+### 3. Williamson 的治理選擇
+
+資產專用性提高時，長期契約、混合治理或垂直整合可能更重要。重點不是單純尋找唯一「最有效」模式，而是辨識不同交易特徵和治理安排的條件。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 既然有市場交易，為什麼企業仍然存在？ |
+| 理論機制 | 交易成本、財產權、資產專用性 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Coase, The Nature of the Firm (1937; selected reprint).
+- North, Structure and Change in Economic History (1981), pp. 3–68, 201–209.
+- Williamson, The Economic Institutions of Capitalism (1985), pp. 15–42.
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 企業擴張的界限為何？
+2. 與社會嵌入理論相比，交易成本框架有什麼解釋上的得失？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 5 ES & NIE.docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-06.qmd) · [下一週](weeks/week-08.qmd)

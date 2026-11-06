@@ -1,0 +1,66 @@
+---
+title: "03｜Karl Polanyi：市場的社會嵌入性"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 03 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 如果市場必須由政治建立，為何市場化會引發社會反作用？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>嵌入性</div>
+<div><strong>核心概念 B</strong>虛構商品</div>
+<div><strong>核心概念 C</strong>雙重運動</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 自我調節市場的歷史性
+
+Polanyi 在《大轉型》反對把現代市場視為自然而普遍的社會組織形式。他區分互惠、再分配與市場交換，也指出土地、勞動與貨幣不只是一般商品，而涉及社會組織與人的生活。
+
+### 2. 市場擴張與社會保護
+
+市場化重組生產與勞動關係時，社會可能透過保護勞工、金融監理及其他立法回應。雙重運動不是政府與市場之間的簡單零和，而是市場自由化與社會保護的政治關係。
+
+### 3. North 的對話
+
+課綱將 North 1977 年對 Polanyi 的論文並讀，讓學生比較交易成本和相互依存的制度解釋。您的筆記也提醒學生：不能僅憑「社會嵌入」就解釋一切，仍需區分具體規則與行為誘因。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 如果市場必須由政治建立，為何市場化會引發社會反作用？ |
+| 理論機制 | 嵌入性、虛構商品、雙重運動 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Polanyi, The Great Transformation (1944/1957), Part II.
+- North, Market and Other Allocation Systems in History: The Challenge of Karl Polanyi (1977).
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 市場形成是否等同國家退場？
+2. 如何用雙重運動理解 2008 年金融危機後的規管？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 4 List & Polanyi(1).docx`
+- `Week 9 Midterm(1).docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-02.qmd) · [下一週](weeks/week-04.qmd)

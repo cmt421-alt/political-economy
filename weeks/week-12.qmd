@@ -1,0 +1,67 @@
+---
+title: "12｜資本主義多樣性：LME 與 CME"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 12 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 企業如何因不同制度環境而採取不同策略？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>協調問題</div>
+<div><strong>核心概念 B</strong>制度互補</div>
+<div><strong>核心概念 C</strong>比較制度優勢</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 從國家轉向企業
+
+Hall 與 Soskice 的 Varieties of Capitalism 以企業協調為中心，觀察企業與勞工、金融機構、供應商及訓練機構如何互動，而非僅用國家干預程度排列各國。
+
+### 2. LME 與 CME
+
+自由市場經濟（LME）較倚賴市場關係；協調市場經濟（CME）則較倚賴非市場的策略協調。筆記提出工資協商、職業訓練、公司治理、企業間合作等五個協調領域。
+
+### 3. 制度互補與創新
+
+特定金融、勞動與企業治理制度可能相互增強，形成比較制度優勢。原筆記也提醒，LME/CME 二分法忽略國家內部的產業、區域差異與長期制度變遷。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 企業如何因不同制度環境而採取不同策略？ |
+| 理論機制 | 協調問題、制度互補、比較制度優勢 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Hall and Soskice, An Introduction to Varieties of Capitalism (2001), pp. 1–68.
+- Crouch, Capitalist Diversity and Change (2005), Chapter 2.
+- Hancké (ed.), Debating Varieties of Capitalism (2009), Chapter 3.
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 制度互補性何時可能從優勢變成僵化？
+2. LME 和 CME 分類對日本或法國是否足夠？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 11 Varieties of Capitalism 2(1).docx`
+- `VoC.docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-11.qmd) · [下一週](weeks/week-13.qmd)

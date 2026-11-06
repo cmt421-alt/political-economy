@@ -13,6 +13,8 @@ website:
     left:
       - href: index.qmd
         text: 首頁
+      - href: course.qmd
+        text: 每週教材
       - text: 經典思想
         menu:
           - href: smith.qmd

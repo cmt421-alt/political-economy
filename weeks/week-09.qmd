@@ -1,0 +1,66 @@
+---
+title: "09｜期中回顧：比較理論與因果機制"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-smith}
+<span class="lesson-eyebrow">WEEK 09 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 如何把思想家的論點轉成可以檢驗的研究問題？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>比較論證</div>
+<div><strong>核心概念 B</strong>因果機制</div>
+<div><strong>核心概念 C</strong>反事實</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 第一個比較軸
+
+從 Smith 與 Marx 對市場、分工與階級的不同解釋，延伸到 List、Polanyi 對自由貿易和市場建構的挑戰。將每個理論的研究單位、前提及預期結果列表，比背誦學者主張更重要。
+
+### 2. 第二個比較軸
+
+用 Hirschman 的 Exit、Voice、Loyalty 與 Coase 的企業邊界、North 的交易成本，檢視市場與政治是否真的可以切割。
+
+### 3. 將期中考題轉成討論課
+
+原始期中考題要求從 Polanyi 觀點分析 2008 年美國金融危機，以及從 Hirschman 分析 Exit 與 Voice 的條件和應用。這裡將其轉為公開教學練習，不保留歷年的正式考試配分。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 如何把思想家的論點轉成可以檢驗的研究問題？ |
+| 理論機制 | 比較論證、因果機制、反事實 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- 複習第 1–8 週的原典與比較圖表。
+- 原始期中題目：Week 9 Midterm(1).docx（作為課堂練習來源）。
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. 以 Polanyi 分析金融危機時，如何界定市場擴張與社會保護？
+2. 同一個勞資衝突可否同時出現 Exit 與 Voice？哪些制度條件會改變結果？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 9 Midterm(1).docx`
+- `Week 6 Hirschman & Lindblom(1).docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-08.qmd) · [下一週](weeks/week-10.qmd)

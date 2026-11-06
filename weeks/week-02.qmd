@@ -1,0 +1,68 @@
+---
+title: "02｜經典政治經濟學：Smith 與 Marx"
+subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+---
+
+::: {.lesson-banner lesson-marx}
+<span class="lesson-eyebrow">WEEK 02 · COMPARATIVE POLITICAL ECONOMY</span>
+
+## 市場創造財富的過程，為什麼也可能改變階級與權力？
+
+以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+:::
+
+<div class="keybox">
+<div><strong>核心概念 A</strong>分工與協調</div>
+<div><strong>核心概念 B</strong>剩餘價值</div>
+<div><strong>核心概念 C</strong>勞動異化</div>
+</div>
+
+::: {.callout-note}
+## 教學定位與資料來源
+本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
+:::
+
+## 本週教學內容
+
+### 1. 共同問題，不同解釋
+
+Smith 從分工、交換與市場規模分析生產力形成，也關心道德判斷及法治制度。Marx 同樣承認資本主義極大擴張生產力，卻進一步追問生產資料所有權、勞動過程與新增價值分配。兩者並非「市場永遠有效」對上「市場毫無價值」的二元對立。
+
+### 2. 資本論三卷導讀
+
+您撰寫的《資本論大綱》導讀，依剩餘價值的生產、實現、分配整理三卷結構。第一卷說明商品、貨幣、勞動力、剩餘價值和積累；第二卷研究資本流通與周轉；第三卷討論利潤與地租等分配形式。這是理解 Marx 理論全貌的重要路徑。
+
+### 3. 從原典到爭論
+
+比較時應區分 Marx 原典與考茨基等後繼者的詮釋；也應區分 Smith 的《道德情操論》與《國富論》在不同研究問題上的論證。教學中可用 M–C–M′ 與分工兩個概念建立相互對話。
+
+## 關鍵論點比較與延伸
+
+| 分析面向 | 本週應掌握的問題 |
+|---|---|
+| 研究謎題 | 市場創造財富的過程，為什麼也可能改變階級與權力？ |
+| 理論機制 | 分工與協調、剩餘價值、勞動異化 如何形成可檢驗的因果解釋？ |
+| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+
+## 指定與延伸閱讀（沿用原課綱書目）
+
+- Barma and Vogel, The Political Economy Reader (2008), pp. 21–62.
+- Caporaso and Levine, Theories of Political Economy (1992), pp. 33–78.
+- Smith, The Wealth of Nations, Book I, Chapters 3–4; Book IV, Chapter 1.
+- Marx, Wage Labor and Capital; selections from Capital.
+
+> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
+
+## 課堂討論
+
+1. Smith 與 Marx 為何都重視分工？差異何在？
+2. 如何區分 Marx 的剩餘價值、帳面利潤與工資之間的關係？
+
+## 所整合的原始資料
+
+- `CPE-Fall-2014-Syllabus.docx`
+- `Week 3 Smith & Marx.docx`
+- `資本論大綱導讀_定稿版.docx`
+
+[返回每週課程總覽](course.qmd) · [上一週](weeks/week-01.qmd) · [下一週](weeks/week-03.qmd)

@@ -10,12 +10,12 @@ title-block-banner: false
 
 ::: {.hero-home}
 ::: {.hero-kicker}
-POLITICAL ECONOMY · OPEN LEARNING
+
 :::
 
-# 理解市場，也理解塑造市場的權力。
+# 理解國家與市場之間的關係
 
-從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較與 AI 時代的政治經濟問題放在同一張知識地圖上。
+從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較，以及 AI 時代的政治經濟問題放在同一張知識地圖上。
 
 [開始學習 Smith](smith.qmd){.btn .btn-light .btn-lg} [探索 Marx](marx.qmd){.btn .btn-outline-light .btn-lg} [進行理論比較](compare.qmd){.btn .btn-outline-light .btn-lg}
 

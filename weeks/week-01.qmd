@@ -1,14 +1,14 @@
 ---
-title: "01｜課程導論：什麼是比較政治經濟學？"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 1 講｜一杯咖啡背後的市場"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">WEEK 01 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 01 · POLITICAL ECONOMY</span>
 
 ## 市場是自然存在的交換空間，還是政治與社會制度所建構？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+從咖啡豆、物流、勞動、支付到食品安全：看似簡單的一杯咖啡，背後有多少看不見的制度？
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>比較分析</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 政治經濟學的研究對象
 
@@ -34,25 +30,27 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 
 ### 3. 比較研究如何提問
 
-一份研究應說清楚研究謎題、主要論點、因果機制、研究設計與證據。單純指出「國家很重要」不夠；還要問是哪一種國家能力、透過何種制度或企業關係、在什麼條件下產生結果。
+一份研究應說清楚出發的問題、主要論點、因果機制、觀察與證據。單純指出「國家很重要」不夠；還要問是哪一種國家能力、透過何種制度或企業關係、在什麼條件下產生結果。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 市場是自然存在的交換空間，還是政治與社會制度所建構？ |
-| 理論機制 | 市場作為制度、國家與市場、比較分析 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 研究謎題 | 市場是自然存在的交換空間，還是政治與社會制度所建構？ | | 核心觀念 | 市場作為制度、國家與市場、比較分析 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+本講可進一步用 Caporaso 與 Levine 在《Theories of Political Economy》中區分的古典、馬克思、新古典、國家中心與權力中心取徑來提問：誰在做決策？什麼機制分配資源？經濟成果是否受到制度與權力影響？這是本系列的跨理論比較提問，而非該書對此案例的逐字解說。[@caporaso1992]
+
+## 延伸閱讀
 
 - Caporaso and Levine, Theories of Political Economy (1992), pp. 1–32.
 - Barma and Vogel (eds.), The Political Economy Reader: Market as Institutions, Introduction.
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 當我們說市場需要規則，最小的必要規則是什麼？
 2. 怎麼設計一個比較研究，檢驗制度而非僅以經濟發展程度解釋差異？
@@ -62,4 +60,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 2 Intro.docx`
 
-[返回每週課程總覽](../course.qmd) · [下一週](week-02.qmd)
+[返回十八講總覽](../course.qmd) · [下一講](week-02.qmd)

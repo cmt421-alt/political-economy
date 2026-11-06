@@ -1,14 +1,14 @@
 ---
-title: "03｜Karl Polanyi：市場的社會嵌入性"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 3 講｜當房租上漲，社會會如何回應？"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">WEEK 03 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 03 · POLITICAL ECONOMY</span>
 
 ## 如果市場必須由政治建立，為何市場化會引發社會反作用？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+房子不只是一項商品，也是生活空間。市場價格與社會保護為何經常衝突？
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>雙重運動</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 自我調節市場的歷史性
 
@@ -36,23 +32,25 @@ Polanyi 在《大轉型》反對把現代市場視為自然而普遍的社會組
 
 課綱將 North 1977 年對 Polanyi 的論文並讀，讓學生比較交易成本和相互依存的制度解釋。您的筆記也提醒學生：不能僅憑「社會嵌入」就解釋一切，仍需區分具體規則與行為誘因。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 如果市場必須由政治建立，為何市場化會引發社會反作用？ |
-| 理論機制 | 嵌入性、虛構商品、雙重運動 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 出發的問題 | 如果市場必須由政治建立，為何市場化會引發社會反作用？ | | 核心觀念 | 嵌入性、虛構商品、雙重運動 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+本講可進一步用 Caporaso 與 Levine 在《Theories of Political Economy》中區分的古典、馬克思、新古典、國家中心與權力中心取徑來提問：誰在做決策？什麼機制分配資源？經濟成果是否受到制度與權力影響？這是本系列的跨理論比較提問，而非該書對此案例的逐字解說。[@caporaso1992]
+
+## 延伸閱讀
 
 - Polanyi, The Great Transformation (1944/1957), Part II.
 - North, Market and Other Allocation Systems in History: The Challenge of Karl Polanyi (1977).
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 市場形成是否等同國家退場？
 2. 如何用雙重運動理解 2008 年金融危機後的規管？
@@ -63,4 +61,4 @@ Polanyi 在《大轉型》反對把現代市場視為自然而普遍的社會組
 - `Week 4 List & Polanyi(1).docx`
 - `Week 9 Midterm(1).docx`
 
-[返回每週課程總覽](../course.qmd) · [上一週](week-02.qmd) · [下一週](week-04.qmd)
+[返回十八講總覽](../course.qmd) · [上一講](week-02.qmd) · [下一講](week-04.qmd)

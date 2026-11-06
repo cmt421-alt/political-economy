@@ -18,3 +18,5 @@ quarto preview
 
 ## 教材維護
 編輯 .qmd 頁面；新增學術引用於 references.bib。更新資料時註明原始來源、年份與查核日期。
+
+網站發布分支已初始化；後續由 GitHub Actions 自動建置與更新。

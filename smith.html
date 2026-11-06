@@ -49,7 +49,6 @@ div.csl-indent {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -65,7 +64,7 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-08c7e388bb7a6698ccbf72a51d0c8a41.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b72677cfebcb0009c1314e3dfc04d89a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,6 +92,7 @@ div.csl-indent {
     "search-label": "搜尋"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles/site.css">
@@ -118,25 +118,32 @@ div.csl-indent {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">首頁</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./smith.html" aria-current="page"> 
-<span class="menu-text">亞當・斯密</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">經典思想</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-">    
+        <li>
+    <a class="dropdown-item" href="./smith.html">
+ <span class="dropdown-text">01 · Adam Smith</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./marx.html"> 
-<span class="menu-text">卡爾・馬克思</span></a>
+        <li>
+    <a class="dropdown-item" href="./marx.html">
+ <span class="dropdown-text">02 · Karl Marx</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./compare.html"> 
-<span class="menu-text">理論比較</span></a>
+        <li>
+    <a class="dropdown-item" href="./compare.html">
+ <span class="dropdown-text">03 · 理論比較</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./readings.html"> 
-<span class="menu-text">文獻資源</span></a>
+<span class="menu-text">原典與文獻</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">關於本站</span></a>
+<span class="menu-text">教學理念</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -155,13 +162,13 @@ div.csl-indent {
     <h2 id="toc-title">本頁目錄</h2>
    
   <ul>
-  <li><a href="#勞動分工division-of-labor" id="toc-勞動分工division-of-labor" class="nav-link active" data-scroll-target="#勞動分工division-of-labor">1. 勞動分工（Division of Labor）</a></li>
-  <li><a href="#自利與看不見的手" id="toc-自利與看不見的手" class="nav-link" data-scroll-target="#自利與看不見的手">2. 自利與看不見的手</a></li>
-  <li><a href="#道德情操論不可缺席" id="toc-道德情操論不可缺席" class="nav-link" data-scroll-target="#道德情操論不可缺席">3. 《道德情操論》不可缺席</a></li>
-  <li><a href="#國家的角色" id="toc-國家的角色" class="nav-link" data-scroll-target="#國家的角色">4. 國家的角色</a></li>
-  <li><a href="#學術爭論" id="toc-學術爭論" class="nav-link" data-scroll-target="#學術爭論">5. 學術爭論</a></li>
-  <li><a href="#當代應用半導體與-ai" id="toc-當代應用半導體與-ai" class="nav-link" data-scroll-target="#當代應用半導體與-ai">6. 當代應用：半導體與 AI</a></li>
-  <li><a href="#討論題" id="toc-討論題" class="nav-link" data-scroll-target="#討論題">討論題</a></li>
+  <li><a href="#一問題意識分散的個人如何形成秩序" id="toc-一問題意識分散的個人如何形成秩序" class="nav-link active" data-scroll-target="#一問題意識分散的個人如何形成秩序">一、問題意識：分散的個人如何形成秩序？</a></li>
+  <li><a href="#二勞動分工交換與市場範圍" id="toc-二勞動分工交換與市場範圍" class="nav-link" data-scroll-target="#二勞動分工交換與市場範圍">二、勞動分工、交換與市場範圍</a></li>
+  <li><a href="#三自利競爭與看不見的手" id="toc-三自利競爭與看不見的手" class="nav-link" data-scroll-target="#三自利競爭與看不見的手">三、自利、競爭與「看不見的手」</a></li>
+  <li><a href="#四道德情操論與完整的人性觀" id="toc-四道德情操論與完整的人性觀" class="nav-link" data-scroll-target="#四道德情操論與完整的人性觀">四、《道德情操論》與完整的人性觀</a></li>
+  <li><a href="#五政府市場與公共制度" id="toc-五政府市場與公共制度" class="nav-link" data-scroll-target="#五政府市場與公共制度">五、政府、市場與公共制度</a></li>
+  <li><a href="#六學術爭論與批評" id="toc-六學術爭論與批評" class="nav-link" data-scroll-target="#六學術爭論與批評">六、學術爭論與批評</a></li>
+  <li><a href="#七原典閱讀與課堂討論" id="toc-七原典閱讀與課堂討論" class="nav-link" data-scroll-target="#七原典閱讀與課堂討論">七、原典閱讀與課堂討論</a></li>
   </ul>
 </nav>
     </div>
@@ -171,7 +178,7 @@ div.csl-indent {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">01｜亞當・斯密：市場、分工與道德</h1>
-<p class="subtitle lead">Adam Smith (1723–1790)</p>
+<p class="subtitle lead">Adam Smith · 1723–1790</p>
 </div>
 
 
@@ -188,53 +195,145 @@ div.csl-indent {
 </header>
 
 
-<p><strong>教學問題：沒有中央指揮，市場如何協調？</strong></p>
-<p>本單元以既有政治經濟學課程筆記為基礎，補充 Smith 的原典與當代學術詮釋。建議閱讀時間：90–120 分鐘。</p>
-<section id="勞動分工division-of-labor" class="level2">
-<h2 class="anchored" data-anchor-id="勞動分工division-of-labor">1. 勞動分工（Division of Labor）</h2>
-<p>Smith 在《國富論》以製針工廠為例，解釋專業化如何提高生產力：工人熟練、減少工作切換時間、鼓勵工具改良。分工的程度受到市場範圍限制。<span class="citation" data-cites="smith1776">(<a href="#ref-smith1776" role="doc-biblioref">Smith 1776年</a>)</span></p>
-<p><strong>分析線索：</strong> 市場擴大 → 交換機會增加 → 分工深化 → 生產力提高。</p>
-<p><a href="https://www.adamsmithworks.org/documents/cannan-edition">閱讀《國富論》原典</a>（Book I, Chapters I–III）。</p>
+<div class="lesson-banner lesson-smith">
+<p><span class="lesson-eyebrow">CLASSICAL POLITICAL ECONOMY / UNIT 01</span></p>
+<section id="市場如何創造財富" class="level2">
+<h2 class="anchored" data-anchor-id="市場如何創造財富">市場如何創造財富？</h2>
+<p>從勞動分工與市場協調出發，理解自由交換背後的法律、道德與政治制度。</p>
 </section>
-<section id="自利與看不見的手" class="level2">
-<h2 class="anchored" data-anchor-id="自利與看不見的手">2. 自利與看不見的手</h2>
-<p>追求自身利益可能在一定的競爭與制度條件下產生非預期的公共利益，但這不是「任何自利行為都會使社會更好」的普遍定理。Smith 同時重視司法、競爭、公共工程，並批評商人透過政策尋求特權。</p>
+</div>
+<div class="keybox">
+<div>
+<strong>核心概念</strong>自利、勞動分工、看不見的手
+</div>
+<div>
+<strong>核心原典</strong>1759《道德情操論》、1776《國富論》
+</div>
+<div>
+<strong>當代連結</strong>半導體全球分工、數位平台與競爭政策
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">註釋</span>本單元的學習目標
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>完成閱讀後，應能解釋分工和市場範圍的關係、區分自利與利己主義、說明國家何以仍是市場制度的一部分，並能批判「看不見的手必然帶來公共利益」這項常見的簡化。</p>
+</div>
+</div>
+<section id="一問題意識分散的個人如何形成秩序" class="level2">
+<h2 class="anchored" data-anchor-id="一問題意識分散的個人如何形成秩序">一、問題意識：分散的個人如何形成秩序？</h2>
+<p>十八世紀商業社會的擴張，使一個問題變得尖銳：如果成千上萬的人各自追求生活所需，社會的生產、交換和消費為何不必完全依靠中央命令才能運作？Smith 的答案包含分工、交換與價格訊號，也包含長期形成的司法規則、信任和道德判斷。這與其時代對重商主義和特許壟斷的批評密切相關。</p>
+<p><strong>來自您的課堂筆記：</strong> 自利（self-interest）是 Smith 的分析起點，但人不只有自利動機；市場的協調功能是各人行動產生的非意圖結果（unintended consequences）。因此，教學時要把「沒有中央指揮」與「沒有制度條件」清楚區分。</p>
 </section>
-<section id="道德情操論不可缺席" class="level2">
-<h2 class="anchored" data-anchor-id="道德情操論不可缺席">3. 《道德情操論》不可缺席</h2>
-<p>Smith 在 <em>The Theory of Moral Sentiments</em> 討論 <strong>sympathy</strong>（同情／設身處地）與 <strong>impartial spectator</strong>（公正旁觀者），呈現比單純逐利更完整的人性觀。<span class="citation" data-cites="smith1759">(<a href="#ref-smith1759" role="doc-biblioref">Smith 1759年</a>)</span></p>
-<p><a href="https://www.adamsmithworks.org/documents/asw-edition">閱讀《道德情操論》</a>。</p>
+<section id="二勞動分工交換與市場範圍" class="level2">
+<h2 class="anchored" data-anchor-id="二勞動分工交換與市場範圍">二、勞動分工、交換與市場範圍</h2>
+<p>Smith 在《國富論》第一卷第一章以製針工廠描述分工：不同工序由不同工人負責，能透過熟練、減少切換工作時間，以及發明或改良機器，提高生產力。第二章連結分工與交換傾向，第三章則指出分工受市場範圍（extent of the market）限制。<span class="citation" data-cites="smith1776">(<a href="#ref-smith1776" role="doc-biblioref">Smith 1776年</a>)</span></p>
+<div class="argument-flow">
+<span>市場與交換機會擴大</span><b>→</b><span>更細緻的專業分工</span><b>→</b><span>生產力提高</span><b>→</b><span>商品供給與交換成長</span>
+</div>
+<p>這套推論不是「只要分工就一定成功」。交易距離、運輸成本、技術與市場規模都可能限制專業化。若市場沒有足夠需求，製造者未必能靠專業化回收固定成本。這個機制也因此成為連接十八世紀工業化與現代跨國供應鏈的教學橋梁。</p>
+<div class="lesson-note">
+<p><strong>延伸思考：</strong> 晶片製造分為設計、設備、材料、晶圓製造與封測，反映分工帶來的專業化優勢；但跨境依賴與地緣政治風險也可能改變企業成本計算。此為當代分析應用，不是 Smith 本人對半導體產業的描述。</p>
+</div>
 </section>
-<section id="國家的角色" class="level2">
-<h2 class="anchored" data-anchor-id="國家的角色">4. 國家的角色</h2>
-<p>Smith 談及國防、司法、公共工程與公共機構。課堂應討論：何種法律與競爭秩序能使私利與公共利益比較一致？何時政治權力反而保護壟斷？</p>
+<section id="三自利競爭與看不見的手" class="level2">
+<h2 class="anchored" data-anchor-id="三自利競爭與看不見的手">三、自利、競爭與「看不見的手」</h2>
+<p>Smith 沒有把道德社會化約成逐利交易。市場中的價格調整能協調許多分散的決策，但這項觀察不能推論「每一種自利行為必然改善公共利益」。尤其當生產者能合謀、取得特權、限制進入，或讓污染等成本由他人承擔時，個人誘因與社會利益可能背離。</p>
+<p>在《國富論》第四卷第二章，著名的「看不見的手」段落處於特定貿易與資本運用的討論脈絡。課堂應閱讀上下文，避免把它當成所有市場情況的一般定律。<span class="citation" data-cites="smith1776">(<a href="#ref-smith1776" role="doc-biblioref">Smith 1776年</a>)</span></p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">原典概念</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">常見誤解</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">可研究問題</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p><strong>Self-interest</strong> 指行動者關心自己的利益；它可以與他人合作、互惠，也可以在特定制度中形成尋租。</p>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p><strong>「Smith 主張政府完全不必介入」</strong>：不準確。國防、司法、公共工程、教育與反對壟斷特權，都顯示他對公共制度的關切。</p>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<p>競爭是否充分？價格是否反映社會成本？商業團體能否影響法律？有了這些問題，才可能檢驗自利與公共利益何時一致。</p>
+</div>
+</div>
+</div>
 </section>
-<section id="學術爭論" class="level2">
-<h2 class="anchored" data-anchor-id="學術爭論">5. 學術爭論</h2>
-<ul>
-<li><em>Adam Smith Problem</em>：道德情操與自利理論是否矛盾？可參照 Rothschild (2001)。<span class="citation" data-cites="rothschild2001">(<a href="#ref-rothschild2001" role="doc-biblioref">Rothschild 2001年</a>)</span></li>
-<li>分工不只提升效率，也可能帶來勞動者能力窄化與教育問題。</li>
-<li>List 日後將質疑自由貿易對不同工業化階段的國家是否同樣有利。</li>
-</ul>
+<section id="四道德情操論與完整的人性觀" class="level2">
+<h2 class="anchored" data-anchor-id="四道德情操論與完整的人性觀">四、《道德情操論》與完整的人性觀</h2>
+<p>在《道德情操論》中，Smith 從 sympathy（設身處地的共感）出發，分析人們如何評估他人行為、學習節制自我，以及建立社會認可與道德判斷。「公正旁觀者」（impartial spectator）是一種用來反省自身言行的判斷視角。<span class="citation" data-cites="smith1759">(<a href="#ref-smith1759" role="doc-biblioref">Smith 1759年</a>)</span></p>
+<p>《道德情操論》與《國富論》並非必然互斥：前者研究行為的道德判斷，後者處理社會如何透過交換、制度與分工形成財富。Rothschild 強調，理解 Smith 時應將其置於十八世紀政治與啟蒙思想的歷史脈絡。<span class="citation" data-cites="rothschild2001">(<a href="#ref-rothschild2001" role="doc-biblioref">Rothschild 2001年</a>)</span></p>
 </section>
-<section id="當代應用半導體與-ai" class="level2">
-<h2 class="anchored" data-anchor-id="當代應用半導體與-ai">6. 當代應用：半導體與 AI</h2>
-<p>半導體設計、晶圓製造、設備、封裝的跨國分工顯示專業化的潛在效率；但國家安全、供應鏈韌性和出口管制提醒我們：經濟效率並非唯一的政治目標。此處是當代教學延伸，並非 Smith 的原始主張。</p>
+<section id="五政府市場與公共制度" class="level2">
+<h2 class="anchored" data-anchor-id="五政府市場與公共制度">五、政府、市場與公共制度</h2>
+<p>您的原始筆記強調 Smith 對政府職能的三項歸納：<strong>國防、法治與公共財</strong>。教學時可以進一步依《國富論》第五卷區分司法制度、公共工程、教育及財政等具體議題。</p>
+<p>Smith 批判的不是所有國家行動，而是容易將特定商人利益偽裝為公共利益的特權安排。這使其理論與政治學的利益團體、規管俘虜和市場權力研究形成對話。儘管競爭可能提高效率，市場制度仍需要界定所有權、執行契約、處理公共建設及維護競爭秩序。</p>
 </section>
-<section id="討論題" class="level2">
-<h2 class="anchored" data-anchor-id="討論題">討論題</h2>
+<section id="六學術爭論與批評" class="level2">
+<h2 class="anchored" data-anchor-id="六學術爭論與批評">六、學術爭論與批評</h2>
 <ol type="1">
-<li>Smith 的自利與道德哲學是否衝突？</li>
-<li>市場範圍為何限制分工？</li>
-<li>市場壟斷會如何改變「看不見的手」的效果？</li>
+<li><strong>Smith 的兩部名著是否有「自利與道德」的矛盾？</strong> 「Adam Smith Problem」的討論提醒我們，不能只用一句話重建整套思想；Rothschild (2001) 提供政治思想史的閱讀路徑。<span class="citation" data-cites="rothschild2001">(<a href="#ref-rothschild2001" role="doc-biblioref">Rothschild 2001年</a>)</span></li>
+<li><strong>自由貿易對每個發展階段都同樣有利嗎？</strong> List 從後進工業化、國家生產力和幼稚產業保護提出挑戰；這將在下一單元介紹。<span class="citation" data-cites="list1841">(<a href="#ref-list1841" role="doc-biblioref">List 1841年</a>)</span></li>
+<li><strong>市場是自發的還是被建立的？</strong> Polanyi 日後強調，現代市場秩序仰賴法律與國家制度的建構，且市場擴張會引發社會保護的反作用。<span class="citation" data-cites="polanyi1944">(<a href="#ref-polanyi1944" role="doc-biblioref">Polanyi 1944年</a>)</span></li>
 </ol>
-<p><a href="./marx.html">下一講：Karl Marx →</a></p>
+</section>
+<section id="七原典閱讀與課堂討論" class="level2">
+<h2 class="anchored" data-anchor-id="七原典閱讀與課堂討論">七、原典閱讀與課堂討論</h2>
+<div class="resource-card">
+<p><strong>原典閱讀（免費）</strong></p>
+<ul>
+<li><a href="https://www.adamsmithworks.org/documents/cannan-edition">《國富論》全文：Book I Chapters 1–3；Book IV Chapter 2；Book V</a></li>
+<li><a href="https://www.adamsmithworks.org/documents/asw-edition">《道德情操論》全文：Part I、Part III</a></li>
+<li><a href="https://www.adamsmithworks.org/texts">Adam Smith Works 閱讀指南</a></li>
+</ul>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">提示</span>問題一：Smith 是「完全自由放任」的思想家嗎？（展開閱讀提示）
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>不是。應結合《國富論》Book V 的公共職責與他對壟斷特權的批評，區分「反對特殊利益保護」與「反對任何政府行動」。</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">提示</span>問題二：如何用 Smith 分析全球半導體產業？
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>先從分工與市場規模推導專業化優勢，再列入跨國運輸、設備依賴、出口管制與產業政策作為可能改變效率及風險的條件，避免只從單一價格機制解釋。</p>
+</div>
+</div>
+</div>
+<p><a href="./marx.html">閱讀下一單元：Marx →</a> ｜ <a href="./compare.html">與 Marx 理論比較 →</a></p>
 
 
 
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">參考文獻</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-list1841" class="csl-entry" role="listitem">
+List, Friedrich. 1841年. <em>Das nationale System der politischen Oekonomie</em>. J. G. Cotta.
+</div>
+<div id="ref-polanyi1944" class="csl-entry" role="listitem">
+Polanyi, Karl. 1944年. <em>The Great Transformation</em>. Farrar; Rinehart.
+</div>
 <div id="ref-rothschild2001" class="csl-entry" role="listitem">
 Rothschild, Emma. 2001年. <em>Economic Sentiments: Adam Smith, Condorcet, and the Enlightenment</em>. Harvard University Press.
 </div>
@@ -749,18 +848,19 @@ Smith, Adam. 1776年. <em>An Inquiry into the Nature and Causes of the Wealth of
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>政治經濟學教學網站 · 試行版 v0.1</p>
+<p>© Political Economy Learning Hub · 教學試行版 v0.2</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>原典 · 論證 · 比較 · 當代應用</p>
+</div>
   </div>
 </footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>03｜Smith × Marx：核心理論比較 – 政治經濟學 · Political Economy</title>
+<title>03｜Smith × Marx：從共同問題出發 – 政治經濟學 · Political Economy</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,11 +26,29 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -46,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-08c7e388bb7a6698ccbf72a51d0c8a41.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b72677cfebcb0009c1314e3dfc04d89a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,6 +92,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "搜尋"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles/site.css">
@@ -99,25 +118,32 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">首頁</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./smith.html"> 
-<span class="menu-text">亞當・斯密</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">經典思想</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-">    
+        <li>
+    <a class="dropdown-item" href="./smith.html">
+ <span class="dropdown-text">01 · Adam Smith</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./marx.html"> 
-<span class="menu-text">卡爾・馬克思</span></a>
+        <li>
+    <a class="dropdown-item" href="./marx.html">
+ <span class="dropdown-text">02 · Karl Marx</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./compare.html" aria-current="page"> 
-<span class="menu-text">理論比較</span></a>
+        <li>
+    <a class="dropdown-item" href="./compare.html">
+ <span class="dropdown-text">03 · 理論比較</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./readings.html"> 
-<span class="menu-text">文獻資源</span></a>
+<span class="menu-text">原典與文獻</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">關於本站</span></a>
+<span class="menu-text">教學理念</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -136,8 +162,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">本頁目錄</h2>
    
   <ul>
-  <li><a href="#當代案例比較" id="toc-當代案例比較" class="nav-link active" data-scroll-target="#當代案例比較">當代案例比較</a></li>
-  <li><a href="#自我檢核" id="toc-自我檢核" class="nav-link" data-scroll-target="#自我檢核">自我檢核</a></li>
+  <li><a href="#一核心比較" id="toc-一核心比較" class="nav-link active" data-scroll-target="#一核心比較">一、核心比較</a></li>
+  <li><a href="#二分工的兩種視角" id="toc-二分工的兩種視角" class="nav-link" data-scroll-target="#二分工的兩種視角">二、分工的兩種視角</a></li>
+  <li><a href="#三把歷史爭論帶入當代" id="toc-三把歷史爭論帶入當代" class="nav-link" data-scroll-target="#三把歷史爭論帶入當代">三、把歷史爭論帶入當代</a></li>
+  <li><a href="#四概念測驗" id="toc-四概念測驗" class="nav-link" data-scroll-target="#四概念測驗">四、概念測驗</a></li>
+  <li><a href="#五延伸到下一單元" id="toc-五延伸到下一單元" class="nav-link" data-scroll-target="#五延伸到下一單元">五、延伸到下一單元</a></li>
   </ul>
 </nav>
     </div>
@@ -146,7 +175,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">03｜Smith × Marx：核心理論比較</h1>
+<h1 class="title">03｜Smith × Marx：從共同問題出發</h1>
+<p class="subtitle lead">市場協調、資本積累、勞動分工與國家權力</p>
 </div>
 
 
@@ -163,105 +193,187 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Smith 與 Marx 並非單純「支持市場」與「反對市場」的對立。兩人都關注分工、生產力、物質利益與資本主義引起的歷史變化，但對協調、分配與權力有不同解釋。</p>
+<div class="home-highlight">
+<p><span class="eyebrow">THE GREAT DEBATE</span></p>
+<section id="兩位思想家不是市場的正反兩面" class="level2">
+<h2 class="anchored" data-anchor-id="兩位思想家不是市場的正反兩面">兩位思想家不是市場的正反兩面</h2>
+<p>Smith 與 Marx 都認識到市場擴張與分工帶來巨大的生產力；主要分歧在於這些過程的協調機制、分配後果、權力關係與長期歷史意涵。</p>
+</section>
+</div>
+<section id="一核心比較" class="level2">
+<h2 class="anchored" data-anchor-id="一核心比較">一、核心比較</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>面向</th>
+<th>問題</th>
 <th>Adam Smith</th>
 <th>Karl Marx</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>核心問題</td>
-<td>市場如何創造財富？</td>
-<td>資本如何增殖與形成階級矛盾？</td>
+<td>理論焦點</td>
+<td>財富的形成、分工、交易與商業社會</td>
+<td>資本增殖、生產關係、階級與制度變遷</td>
 </tr>
 <tr class="even">
-<td>關鍵機制</td>
-<td>分工、交換、競爭</td>
-<td>生產關係、剩餘價值、階級衝突</td>
+<td>分工</td>
+<td>擴大專業化與生產力，也可能弱化工人能力</td>
+<td>提高生產力，且可深化勞動受控制及異化</td>
 </tr>
 <tr class="odd">
-<td>勞動</td>
-<td>專業化與生產力</td>
-<td>勞動力商品、剝削與異化</td>
+<td>個體動機</td>
+<td>自利與道德情感並存</td>
+<td>物質處境與社會關係對行動具結構性影響</td>
 </tr>
 <tr class="even">
-<td>國家</td>
-<td>司法、國防、公共工程、反特權</td>
-<td>階級權力、政治鬥爭與財產關係</td>
+<td>市場協調</td>
+<td>價格與交換形成分散協調，須考慮制度和競爭條件</td>
+<td>市場連結商品生產，但無法消除階級矛盾</td>
 </tr>
 <tr class="odd">
-<td>歷史</td>
-<td>商業社會與制度演進</td>
-<td>生產方式與社會矛盾的變遷</td>
+<td>國家權力</td>
+<td>司法、國防、公共工程、制約商業特權</td>
+<td>階級支配、政治組織與財產關係</td>
+</tr>
+<tr class="even">
+<td>歷史動力</td>
+<td>分工、資本積累、交換與制度演進</td>
+<td>生產力與生產關係間的矛盾、階級鬥爭</td>
+</tr>
+<tr class="odd">
+<td>規範疑問</td>
+<td>如何形成繁榮而具有道德秩序的社會？</td>
+<td>為何生產力增長未必意味勞動者解放？</td>
 </tr>
 </tbody>
 </table>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+</section>
+<section id="二分工的兩種視角" class="level2">
+<h2 class="anchored" data-anchor-id="二分工的兩種視角">二、分工的兩種視角</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="concept-card concept-gold">
+<div class="concept-icon">
+SMITH
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">重要</span>避免兩個簡化
+<section id="生產效率問題" class="level3">
+<h3 class="anchored" data-anchor-id="生產效率問題">生產效率問題</h3>
+<p>勞動分工可以帶來熟練、節約時間與機器創新。市場範圍對專業化形成限制。</p>
+<p><strong>可觀察現象：</strong> 生產率、分工深度、市場規模、交易成本。</p>
+</section>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>Smith 不等於</strong> 市場永遠不會失靈。</li>
-<li><strong>Marx 不等於</strong> 否認資本主義創造生產力。</li>
-</ul>
+<div class="g-col-12 g-col-md-6">
+<div class="concept-card concept-red">
+<div class="concept-icon">
+MARX
 </div>
-</div>
-<section id="當代案例比較" class="level2">
-<h2 class="anchored" data-anchor-id="當代案例比較">當代案例比較</h2>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">生成式 AI</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">半導體供應鏈</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">平台經濟</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p><strong>Smith 式提問：</strong> 專業化與技術創新如何提升生產力？</p>
-<p><strong>Marx 式提問：</strong> 生產力收益如何在資本所有者與勞動者間分配？</p>
-</div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<p><strong>Smith 式提問：</strong> 國際分工如何促成規模和專業化？</p>
-<p><strong>Marx 式提問：</strong> 所有權、資本集中與勞動關係如何塑造收益？</p>
-</div>
-<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-<p><strong>Smith 式提問：</strong> 平台是否降低交易成本並擴大市場？</p>
-<p><strong>Marx 式提問：</strong> 平台如何管理勞動、集中資本和控制資料？</p>
+<section id="權力與勞動問題" class="level3">
+<h3 class="anchored" data-anchor-id="權力與勞動問題">權力與勞動問題</h3>
+<p>同一套分工也可能讓工作者失去對生產活動、產品和技術節奏的控制。</p>
+<p><strong>可觀察現象：</strong> 所有權、工作自主性、勞動報酬、控制權。</p>
+</section>
 </div>
 </div>
 </div>
 </section>
-<section id="自我檢核" class="level2">
-<h2 class="anchored" data-anchor-id="自我檢核">自我檢核</h2>
-<p>哪個研究設計較能分析「市場競爭可能提高生產力，但收益未必平均分配」？</p>
+<section id="三把歷史爭論帶入當代" class="level2">
+<h2 class="anchored" data-anchor-id="三把歷史爭論帶入當代">三、把歷史爭論帶入當代</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">半導體供應鏈</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">生成式 AI</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">平台勞動</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p><strong>Smith 的分析切入點：</strong> 專業化和市場規模如何影響各國企業分工？</p>
+<p><strong>Marx 的分析切入點：</strong> 資本集中、供應鏈控制與勞資關係如何影響分配？</p>
+<p><strong>研究提醒：</strong> 必須加入國家安全、技術管制與市場力量等變數；古典理論無法直接替代產業實證。</p>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p><strong>Smith 的分析切入點：</strong> 人機協作和任務分工是否增加生產效率？</p>
+<p><strong>Marx 的分析切入點：</strong> 誰擁有模型、資料、算力？收益是否轉化成勞動者的工資或自主性？</p>
+<p><strong>研究提醒：</strong> 應利用工資、工時、技能、產出與所有權資料檢驗，不預設技術結果。</p>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<p><strong>Smith 的分析切入點：</strong> 平台是否降低搜尋和交易成本？</p>
+<p><strong>Marx 的分析切入點：</strong> 演算法控制如何改變工作者對勞動過程的掌握？</p>
+<p><strong>研究提醒：</strong> 區分平台類型、勞動契約、競爭環境和各國規管制度。</p>
+</div>
+</div>
+</div>
+</section>
+<section id="四概念測驗" class="level2">
+<h2 class="anchored" data-anchor-id="四概念測驗">四、概念測驗</h2>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">提示</span>題目 1：Smith 是否只把人視為自利的經濟人？
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>不是。《道德情操論》的共感與公正旁觀者，說明道德判斷也是其社會理論的重要部分。</p>
+</div>
+</div>
+</div>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">提示</span>點擊展開參考答案
+<span class="screen-reader-only">提示</span>題目 2：Marx 是否否定資本主義帶來生產力？
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>應同時比較生產力、工資與勞動報酬、所有權及企業集中度。只觀察產值不足以推論收益分配。</p>
+<p>不是。他承認資本主義的歷史生產力，同時追問其社會代價與階級矛盾。</p>
 </div>
 </div>
 </div>
-<p>下一步，從 Smith 與 Marx 轉向 List 對後進工業國的保護論，以及 Polanyi 對市場社會嵌入性的分析。</p>
-<p><a href="./readings.html">閱讀文獻資源 →</a></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">提示</span>題目 3：如何設計兩位思想家都能參與的實證研究？
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>例如考察自動化：先測量生產率增長，再觀察工資、勞動自主性、企業集中度及政策制度如何影響分配，讓不同機制接受經驗檢驗。</p>
+</div>
+</div>
+</div>
+</section>
+<section id="五延伸到下一單元" class="level2">
+<h2 class="anchored" data-anchor-id="五延伸到下一單元">五、延伸到下一單元</h2>
+<p>Smith 與 Marx 提供理解市場、財富及階級的不同入口。接下來，<strong>Friedrich List</strong> 將以後進國家的生產力與保護政策挑戰自由貿易普遍論；<strong>Karl Polanyi</strong> 則追問市場何以必須由國家創造、並重新嵌入社會。<span class="citation" data-cites="list1841 polanyi1944">(<a href="#ref-list1841" role="doc-biblioref">List 1841年</a>; <a href="#ref-polanyi1944" role="doc-biblioref">Polanyi 1944年</a>)</span></p>
+<p><a href="./smith.html">閱讀 Smith →</a> · <a href="./marx.html">閱讀 Marx →</a> · <a href="./readings.html">完整文獻 →</a></p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">參考文獻</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-list1841" class="csl-entry" role="listitem">
+List, Friedrich. 1841年. <em>Das nationale System der politischen Oekonomie</em>. J. G. Cotta.
+</div>
+<div id="ref-polanyi1944" class="csl-entry" role="listitem">
+Polanyi, Karl. 1944年. <em>The Great Transformation</em>. Farrar; Rinehart.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -766,18 +878,19 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>政治經濟學教學網站 · 試行版 v0.1</p>
+<p>© Political Economy Learning Hub · 教學試行版 v0.2</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>原典 · 論證 · 比較 · 當代應用</p>
+</div>
   </div>
 </footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>原典與延伸文獻 – 政治經濟學 · Political Economy</title>
+<title>原典與學術文獻 – 政治經濟學 · Political Economy</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -49,7 +49,6 @@ div.csl-indent {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -65,7 +64,7 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-08c7e388bb7a6698ccbf72a51d0c8a41.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b72677cfebcb0009c1314e3dfc04d89a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,6 +92,7 @@ div.csl-indent {
     "search-label": "搜尋"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles/site.css">
@@ -118,25 +118,32 @@ div.csl-indent {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">首頁</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./smith.html"> 
-<span class="menu-text">亞當・斯密</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">經典思想</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-">    
+        <li>
+    <a class="dropdown-item" href="./smith.html">
+ <span class="dropdown-text">01 · Adam Smith</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./marx.html"> 
-<span class="menu-text">卡爾・馬克思</span></a>
+        <li>
+    <a class="dropdown-item" href="./marx.html">
+ <span class="dropdown-text">02 · Karl Marx</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./compare.html"> 
-<span class="menu-text">理論比較</span></a>
+        <li>
+    <a class="dropdown-item" href="./compare.html">
+ <span class="dropdown-text">03 · 理論比較</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="./readings.html" aria-current="page"> 
-<span class="menu-text">文獻資源</span></a>
+<span class="menu-text">原典與文獻</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">關於本站</span></a>
+<span class="menu-text">教學理念</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -155,10 +162,11 @@ div.csl-indent {
     <h2 id="toc-title">本頁目錄</h2>
    
   <ul>
-  <li><a href="#原典網站" id="toc-原典網站" class="nav-link active" data-scroll-target="#原典網站">原典網站</a></li>
-  <li><a href="#指定閱讀" id="toc-指定閱讀" class="nav-link" data-scroll-target="#指定閱讀">指定閱讀</a></li>
-  <li><a href="#學術詮釋與爭論" id="toc-學術詮釋與爭論" class="nav-link" data-scroll-target="#學術詮釋與爭論">學術詮釋與爭論</a></li>
-  <li><a href="#來源標示原則" id="toc-來源標示原則" class="nav-link" data-scroll-target="#來源標示原則">來源標示原則</a></li>
+  <li><a href="#一adam-smith-原典" id="toc-一adam-smith-原典" class="nav-link active" data-scroll-target="#一adam-smith-原典">一、Adam Smith 原典</a></li>
+  <li><a href="#二karl-marx-原典" id="toc-二karl-marx-原典" class="nav-link" data-scroll-target="#二karl-marx-原典">二、Karl Marx 原典</a></li>
+  <li><a href="#三研究文獻如何閱讀經典" id="toc-三研究文獻如何閱讀經典" class="nav-link" data-scroll-target="#三研究文獻如何閱讀經典">三、研究文獻：如何閱讀經典？</a></li>
+  <li><a href="#四免費線上文獻庫" id="toc-四免費線上文獻庫" class="nav-link" data-scroll-target="#四免費線上文獻庫">四、免費線上文獻庫</a></li>
+  <li><a href="#參考文獻" id="toc-參考文獻" class="nav-link" data-scroll-target="#參考文獻">參考文獻</a></li>
   </ul>
 </nav>
     </div>
@@ -167,7 +175,8 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">原典與延伸文獻</h1>
+<h1 class="title">原典與學術文獻</h1>
+<p class="subtitle lead">Primary sources · Scholarly interpretations · Contemporary questions</p>
 </div>
 
 
@@ -184,61 +193,133 @@ div.csl-indent {
 </header>
 
 
-<section id="原典網站" class="level2">
-<h2 class="anchored" data-anchor-id="原典網站">原典網站</h2>
+<div class="home-highlight">
+<p><span class="eyebrow">READ THE ORIGINAL TEXTS</span></p>
+<section id="區分三種知識來源" class="level2">
+<h2 class="anchored" data-anchor-id="區分三種知識來源">區分三種知識來源</h2>
+<p><strong>原典</strong>是思想家自己的論述；<strong>學術詮釋</strong>由後來研究者重建、批評或延伸；<strong>當代應用</strong>則是以經典概念分析今日產業與制度，不能反過來當成思想家的原始主張。</p>
+</section>
+</div>
+<section id="一adam-smith-原典" class="level2">
+<h2 class="anchored" data-anchor-id="一adam-smith-原典">一、Adam Smith 原典</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>著作</th>
+<th>建議章節</th>
+<th>閱讀重點</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://www.adamsmithworks.org/documents/asw-edition"><em>The Theory of Moral Sentiments</em> (1759)</a></td>
+<td>Parts I, III</td>
+<td>Sympathy、公正旁觀者、道德判斷</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.adamsmithworks.org/documents/cannan-edition"><em>The Wealth of Nations</em> (1776)</a></td>
+<td>Book I, Chapters 1–3</td>
+<td>分工、交換與市場範圍</td>
+</tr>
+<tr class="odd">
+<td>同上</td>
+<td>Book IV, Chapter 2；Book V</td>
+<td>貿易、看不見的手與公共職能</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="二karl-marx-原典" class="level2">
+<h2 class="anchored" data-anchor-id="二karl-marx-原典">二、Karl Marx 原典</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>著作</th>
+<th>建議章節</th>
+<th>閱讀重點</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://www.marxists.org/archive/marx/works/1844/epm/1st.htm"><em>Economic and Philosophic Manuscripts</em> (1844)</a></td>
+<td>Estranged Labour</td>
+<td>異化與勞動</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/"><em>Manifesto of the Communist Party</em> (1848)</a></td>
+<td>Section I</td>
+<td>生產力、資產階級與階級衝突</td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.marxists.org/archive/marx/works/1867-c1/index.htm"><em>Capital</em>, Vol. I (1867)</a></td>
+<td>Chapters 1, 4, 6, 7, 25</td>
+<td>商品、資本、勞動力、剩餘價值與積累</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">註釋</span>文本版本提醒
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>原著出版年份與網路英譯版本不同。例如 Marx 的《資本論》第一卷德文初版為 1867 年，Marxists Internet Archive 的英文網路版另有其翻譯與整理歷史。精確引文應標註所用版本及章節。</p>
+</div>
+</div>
+</section>
+<section id="三研究文獻如何閱讀經典" class="level2">
+<h2 class="anchored" data-anchor-id="三研究文獻如何閱讀經典">三、研究文獻：如何閱讀經典？</h2>
 <ul>
-<li><a href="https://www.adamsmithworks.org/">Adam Smith Works</a>：《國富論》《道德情操論》的原典與閱讀資源。</li>
-<li><a href="https://www.marxists.org/">Marxists Internet Archive</a>：Marx、Engels 原典及相關歷史文獻。</li>
+<li><strong>Emma Rothschild (2001), <em>Economic Sentiments</em></strong>：由啟蒙思想與政治史重建 Smith 的經濟與道德思想。<span class="citation" data-cites="rothschild2001">(<a href="#ref-rothschild2001" role="doc-biblioref">Rothschild 2001年</a>)</span></li>
+<li><strong>G. A. Cohen (1978), <em>Karl Marx’s Theory of History: A Defence</em></strong>：對歷史唯物論進行分析哲學重建。<span class="citation" data-cites="cohen1978">(<a href="#ref-cohen1978" role="doc-biblioref">Cohen 1978年</a>)</span></li>
+<li><strong>Friedrich List (1841), <em>The National System of Political Economy</em></strong>：強調不同發展階段的國家與生產力。<span class="citation" data-cites="list1841">(<a href="#ref-list1841" role="doc-biblioref">List 1841年</a>)</span></li>
+<li><strong>Karl Polanyi (1944), <em>The Great Transformation</em></strong>：分析市場社會的制度建構與雙重運動。<span class="citation" data-cites="polanyi1944">(<a href="#ref-polanyi1944" role="doc-biblioref">Polanyi 1944年</a>)</span></li>
 </ul>
 </section>
-<section id="指定閱讀" class="level2">
-<h2 class="anchored" data-anchor-id="指定閱讀">指定閱讀</h2>
-<ol type="1">
-<li>Smith, <em>The Theory of Moral Sentiments</em> (1759), Parts I、III。<span class="citation" data-cites="smith1759">(<a href="#ref-smith1759" role="doc-biblioref">Smith 1759年</a>)</span></li>
-<li>Smith, <em>The Wealth of Nations</em> (1776), Book I Chapters I–III、Book V。<span class="citation" data-cites="smith1776">(<a href="#ref-smith1776" role="doc-biblioref">Smith 1776年</a>)</span></li>
-<li>Marx, <em>Economic and Philosophic Manuscripts of 1844</em>，章節 Estranged Labour。<span class="citation" data-cites="marx1844">(<a href="#ref-marx1844" role="doc-biblioref">Marx 1844年</a>)</span></li>
-<li>Marx, <em>Capital</em>, Volume I (1867)，Chapters 1、7。<span class="citation" data-cites="marx1867">(<a href="#ref-marx1867" role="doc-biblioref">Marx 1867年</a>)</span></li>
-<li>Marx &amp; Engels, <em>Manifesto of the Communist Party</em> (1848)。<span class="citation" data-cites="marxengels1848">(<a href="#ref-marxengels1848" role="doc-biblioref">Marx 及 Engels 1848年</a>)</span></li>
-</ol>
+<section id="四免費線上文獻庫" class="level2">
+<h2 class="anchored" data-anchor-id="四免費線上文獻庫">四、免費線上文獻庫</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="resource-card">
+<p><strong>Adam Smith Works</strong></p>
+<p>原典、導讀與教學資源。</p>
+<p><a href="https://www.adamsmithworks.org/">前往網站</a></p>
+</div>
+</div>
+<div class="g-col-12 g-col-md-6">
+<div class="resource-card">
+<p><strong>Marxists Internet Archive</strong></p>
+<p>歷史文獻、不同文本與翻譯版本。</p>
+<p><a href="https://www.marxists.org/">前往網站</a></p>
+</div>
+</div>
+</div>
 </section>
-<section id="學術詮釋與爭論" class="level2">
-<h2 class="anchored" data-anchor-id="學術詮釋與爭論">學術詮釋與爭論</h2>
-<ul>
-<li>Rothschild (2001)：Smith 的自由、啟蒙思想與歷史脈絡。<span class="citation" data-cites="rothschild2001">(<a href="#ref-rothschild2001" role="doc-biblioref">Rothschild 2001年</a>)</span></li>
-<li>Cohen (1978)：歷史唯物論的哲學重建。<span class="citation" data-cites="cohen1978">(<a href="#ref-cohen1978" role="doc-biblioref">Cohen 1978年</a>)</span></li>
-</ul>
-</section>
-<section id="來源標示原則" class="level2">
-<h2 class="anchored" data-anchor-id="來源標示原則">來源標示原則</h2>
-<p>區分<strong>作者原始主張、後人學術詮釋、課堂教學延伸、待查證的當代資料</strong>。公開網站以連結原典為主，不大量複製其他網站文本。新增數據時須列來源、年份、定義與查核日期。</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">參考文獻</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<section id="參考文獻" class="level2">
+<h2 class="anchored" data-anchor-id="參考文獻">參考文獻</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-cohen1978" class="csl-entry" role="listitem">
 Cohen, G. A. 1978年. <em>Karl Marx’s Theory of History: A Defence</em>. Princeton University Press.
 </div>
-<div id="ref-marx1844" class="csl-entry" role="listitem">
-Marx, Karl. 1844年. <em>Economic and Philosophic Manuscripts of 1844</em>. <a href="https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm">https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm</a>.
+<div id="ref-list1841" class="csl-entry" role="listitem">
+List, Friedrich. 1841年. <em>Das nationale System der politischen Oekonomie</em>. J. G. Cotta.
 </div>
-<div id="ref-marx1867" class="csl-entry" role="listitem">
-Marx, Karl. 1867年. <em>Das Kapital: Kritik der politischen Oekonomie. Erster Band</em>. Otto Meissner. <a href="https://www.marxists.org/archive/marx/works/1867-c1/">https://www.marxists.org/archive/marx/works/1867-c1/</a>.
-</div>
-<div id="ref-marxengels1848" class="csl-entry" role="listitem">
-Marx, Karl, 及 Friedrich Engels. 1848年. <em>Manifest der Kommunistischen Partei</em>. <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/">https://www.marxists.org/archive/marx/works/1848/communist-manifesto/</a>.
+<div id="ref-polanyi1944" class="csl-entry" role="listitem">
+Polanyi, Karl. 1944年. <em>The Great Transformation</em>. Farrar; Rinehart.
 </div>
 <div id="ref-rothschild2001" class="csl-entry" role="listitem">
 Rothschild, Emma. 2001年. <em>Economic Sentiments: Adam Smith, Condorcet, and the Enlightenment</em>. Harvard University Press.
 </div>
-<div id="ref-smith1759" class="csl-entry" role="listitem">
-Smith, Adam. 1759年. <em>The Theory of Moral Sentiments</em>. A. Millar. <a href="https://www.adamsmithworks.org/documents/asw-edition">https://www.adamsmithworks.org/documents/asw-edition</a>.
 </div>
-<div id="ref-smith1776" class="csl-entry" role="listitem">
-Smith, Adam. 1776年. <em>An Inquiry into the Nature and Causes of the Wealth of Nations</em>. W. Strahan; T. Cadell. <a href="https://www.adamsmithworks.org/documents/cannan-edition">https://www.adamsmithworks.org/documents/cannan-edition</a>.
-</div>
-</div></section></div></main> <!-- /main -->
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -743,18 +824,19 @@ Smith, Adam. 1776年. <em>An Inquiry into the Nature and Causes of the Wealth of
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>政治經濟學教學網站 · 試行版 v0.1</p>
+<p>© Political Economy Learning Hub · 教學試行版 v0.2</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>原典 · 論證 · 比較 · 當代應用</p>
+</div>
   </div>
 </footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

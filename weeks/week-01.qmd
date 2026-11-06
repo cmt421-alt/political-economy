@@ -62,4 +62,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 2 Intro.docx`
 
-[返回每週課程總覽](course.qmd) · [下一週](weeks/week-02.qmd)
+[返回每週課程總覽](../course.qmd) · [下一週](week-02.qmd)

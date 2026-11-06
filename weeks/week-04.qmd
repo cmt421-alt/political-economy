@@ -62,4 +62,4 @@ Friedman 的政策立場與貨幣主義可與 Hayek 的知識問題區分。思�
 - `CPE-Fall-2014-Syllabus.docx`
 - `Week 4 List & Polanyi(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-03.qmd) · [下一週](weeks/week-05.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-03.qmd) · [下一週](week-05.qmd)

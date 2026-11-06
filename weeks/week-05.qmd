@@ -64,4 +64,4 @@ Rostow 提出階段式成長圖像，Gerschenkron 則主張後進程度不同，
 - `Week 7 British Industrialization.docx`
 - `Week 8 Late Development.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-04.qmd) · [下一週](weeks/week-06.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-04.qmd) · [下一週](week-06.qmd)

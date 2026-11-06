@@ -65,4 +65,4 @@ Smith 從分工、交換與市場規模分析生產力形成，也關心道德�
 - `Week 3 Smith & Marx.docx`
 - `資本論大綱導讀_定稿版.docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-01.qmd) · [下一週](weeks/week-03.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-01.qmd) · [下一週](week-03.qmd)

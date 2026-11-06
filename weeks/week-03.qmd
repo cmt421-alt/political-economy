@@ -63,4 +63,4 @@ Polanyi 在《大轉型》反對把現代市場視為自然而普遍的社會組
 - `Week 4 List & Polanyi(1).docx`
 - `Week 9 Midterm(1).docx`
 
-[返回每週課程總覽](course.qmd) · [上一週](weeks/week-02.qmd) · [下一週](weeks/week-04.qmd)
+[返回每週課程總覽](../course.qmd) · [上一週](week-02.qmd) · [下一週](week-04.qmd)

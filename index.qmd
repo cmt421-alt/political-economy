@@ -132,6 +132,16 @@ POLITICAL ECONOMY · OPEN LEARNING
 [Smith × Marx：比較兩套提問方式 →](compare.qmd)
 :::
 
+::: {.home-highlight}
+<span class="eyebrow">READING COMPANION · NIALL KISHTAINY</span>
+
+## 從兩位思想家，走向一部經濟思想史
+
+以 Niall Kishtainy 的 *A Little History of Economics*（2017）作為延伸閱讀導航，串連 Ricardo、Malthus、Keynes、Schumpeter、Hayek、Friedman、Sen 等思想家，與本課程的政治經濟學問題對話。
+
+[探索思想家地圖 →](thinkers.qmd) · [耶魯大學出版社書籍介紹](https://yalebooks.yale.edu/book/9780300283242/a-little-history-of-economics/)
+:::
+
 ::: {.section-heading}
 <span class="eyebrow">PRIMARY SOURCES</span>
 

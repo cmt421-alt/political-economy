@@ -114,3 +114,9 @@ Marx 不認為資本主義毫無歷史功績。《共產黨宣言》即強調資
 :::
 
 [返回 Smith →](smith.qmd) ｜ [進入理論比較 →](compare.qmd)
+
+## 九、從 *A Little History of Economics* 補充閱讀
+
+Kishtainy 的第 10 章 *Workers of the World* 適合搭配《共產黨宣言》與《資本論》的入門閱讀。其後有關 *Creative Destruction*（第 19 章）和 *The Big Push*（第 22 章）的主題，可進一步引導學生思考資本主義創新與工業化的不同理論。這些是**本網站的跨章延伸教學安排**，不代表作者將這幾章歸屬於單一 Marx 理論。[@kishtainy2017]
+
+[思想家地圖：資本主義與發展的多種解釋 →](thinkers.qmd)

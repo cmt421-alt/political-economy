@@ -66,3 +66,10 @@ subtitle: "Primary sources · Scholarly interpretations · Contemporary question
 
 ::: {#refs}
 :::
+
+## 五、經濟思想史補充讀物
+
+Kishtainy, Niall. *A Little History of Economics*. Yale University Press, 2017。適合作為思想史及課堂入門輔助讀物，而非取代各位作者原典或專業期刊文獻。[@kishtainy2017]
+
+- [耶魯大學出版社出版資訊](https://yalebooks.yale.edu/book/9780300283242/a-little-history-of-economics/)
+- [本站思想家地圖與選讀章節](thinkers.qmd)

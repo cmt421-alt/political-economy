@@ -77,3 +77,8 @@ main.content{padding-top:1.7rem}
 .lesson-portrait figcaption{font-size:.79rem;line-height:1.6;color:#596e7e;margin-top:10px}
 .credit-table td{vertical-align:top}
 @media(max-width:550px){.feature-card .portrait-link{width:28%;margin-left:9px}.figure-portrait{border-width:2px}.feature-card h3{font-size:1.6rem}}
+
+.thinker-chip{border-radius:14px;padding:17px 18px;border:1px solid #e0e7ec;background:#f6fafb;margin-bottom:13px}
+.thinker-chip strong{font-size:1.12rem;color:#173347}
+.thinker-chip small{color:#647786;display:block}
+.thinker-chip p{margin:.45rem 0 0}

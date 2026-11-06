@@ -98,3 +98,9 @@ Smith 批判的不是所有國家行動，而是容易將特定商人利益偽�
 :::
 
 [閱讀下一單元：Marx →](marx.qmd) ｜ [與 Marx 理論比較 →](compare.qmd)
+
+## 八、從 *A Little History of Economics* 補充閱讀
+
+Kishtainy 的第 6 章 *The Invisible Hand*（看不見的手），可作為本單元的**入門導讀**；第 7 章 *Corn Meets Iron* 可以接續比較 David Ricardo 的分配與貿易分析。本課程仍以 Smith 原典和學術研究作為主要論據，並不直接將導讀書當成原典。[@kishtainy2017]
+
+[思想家地圖：從 Smith 到 Ricardo 等人 →](thinkers.qmd)

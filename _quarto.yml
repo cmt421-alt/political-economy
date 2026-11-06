@@ -21,6 +21,8 @@ website:
             text: "02 · Karl Marx"
           - href: compare.qmd
             text: "03 · 理論比較"
+      - href: thinkers.qmd
+        text: 思想家地圖
       - href: readings.qmd
         text: 原典與文獻
       - href: image-credits.qmd

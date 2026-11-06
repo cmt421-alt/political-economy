@@ -1,0 +1,164 @@
+---
+title: "經濟思想家地圖"
+subtitle: "與 Niall Kishtainy《A Little History of Economics》對話"
+---
+
+::: {.home-highlight}
+<span class="eyebrow">ECONOMIC THOUGHT · READING COMPANION</span>
+
+## 一部經濟思想史，連結政治經濟學的核心問題
+
+本頁將 Niall Kishtainy, *A Little History of Economics*（Yale University Press, 2017）作為**入門閱讀索引**，並依本站原有課程（Smith、Marx、List、Polanyi、制度學派、工業化、資本主義類型與全球化）建立比較關係。[@kishtainy2017]
+
+[出版社書籍介紹](https://yalebooks.yale.edu/book/9780300283242/a-little-history-of-economics/) · [經核對的書籍目錄](https://openlibrary.org/works/OL19665429W/A_little_history_of_economics)
+:::
+
+::: {.callout-important}
+## 來源與解讀範圍
+下列**章名與章序**來自公開目錄；**思想家與政治經濟學主題的連結**則是本網站提出的教學編排。除非明確註明，這不是對 Kishtainy 各章內文的逐章摘要，也不宣稱每位所列學者都在對應章節被詳細討論。若需精確援引該書的某位思想家的說法，須依實際版本再核對內文與頁碼。
+:::
+
+## 一、先讀 Smith 與 Marx，再向外延伸
+
+| 本站核心單元 | Kishtainy 目錄中可搭配的章節 | 本站建議的比較問題 |
+|---|---|---|
+| [Adam Smith](smith.qmd) | Chapter 6, *The Invisible Hand* | 市場協調如何與道德、分工及制度共同運作？ |
+| [Karl Marx](marx.qmd) | Chapter 10, *Workers of the World* | 資本主義為何同時提高生產力、產生階級衝突？ |
+| Ricardo 與古典分配論 | Chapter 7, *Corn Meets Iron* | 工資、利潤、地租與國際貿易如何彼此連結？ |
+| 人口與貧窮 | Chapter 9, *Too Many Mouths* | 稀缺是自然限制，還是制度與分配問題？ |
+| 創新與資本主義 | Chapter 19, *Creative Destruction* | 創新如何摧毀既有優勢，又帶來新產業？ |
+| 發展與工業化 | Chapter 22, *The Big Push* | 經濟發展為何需要互補投資與協調？ |
+| 當代經濟治理 | Chapters 35–39 | 性別、認知限制、金融危機與不平等如何改寫古典問題？ |
+
+## 二、建議納入的思想家與核心爭論
+
+以下是**本站的延伸閱讀建議**，不是該書思想家出場次序的完整重現。
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**David Ricardo (1772–1823)**
+
+<small>比較利益 · 工資、地租與利潤</small>
+
+與 Smith 共同討論自由貿易，但更明確提出相對生產成本與分配衝突。可連結十九世紀英國穀物法、現代貿易政治。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Thomas Robert Malthus (1766–1834)**
+
+<small>人口 · 糧食 · 稀缺</small>
+
+與 Marx、發展理論對話：糧食與生活困境是自然資源限制，還是財產、技術與社會制度共同造成？
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**John Maynard Keynes (1883–1946)**
+
+<small>有效需求 · 失業 · 財政與貨幣政策</small>
+
+市場能否自動回到充分就業？與 Smith 的協調、Marx 的危機論，以及後來的穩定政策相互比較。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Joseph Schumpeter (1883–1950)**
+
+<small>創業家 · 創新 · 創造性破壞</small>
+
+將資本主義的動態創新視為中心，補充 Marx 對積累、競爭和社會變遷的分析。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Friedrich Hayek (1899–1992)**
+
+<small>分散知識 · 價格訊號 · 計畫經濟辯論</small>
+
+市場如何協調分散的資訊？可與 Polanyi、Lindblom 及社會主義經濟計畫問題比較。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Milton Friedman (1912–2006)**
+
+<small>貨幣主義 · 政策規則 · 政府角色</small>
+
+將貨幣、通膨與政府介入爭論引入課程，並與 Keynes 的有效需求理論對話。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Joan Robinson (1903–1983)**
+
+<small>不完全競爭 · 市場權力 · 資本理論</small>
+
+競爭市場的假設在哪些產業失效？延伸到企業定價、市場集中和政治監理。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Amartya Sen (1933–2023)**
+
+<small>能力方法 · 飢荒與權利 · 發展作為自由</small>
+
+以發展的實質自由與機會評估成長，連結您的發展策略與制度能力單元。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Daniel Kahneman (1934–2024)**
+
+<small>有限理性 · 判斷偏誤 · 行為經濟學</small>
+
+挑戰完全理性行為人的假設，與制度、資訊不對稱和政策設計對話。
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.thinker-chip}
+**Thomas Piketty (1971– )**
+
+<small>財富集中 · 所得分配 · 資本主義不平等</small>
+
+延伸 Smith、Ricardo、Marx 對分配的疑問，以長期歷史資料研究財富集中與政治選擇。
+:::
+:::
+:::
+
+## 三、與原本政治經濟學課程如何整合？
+
+本網站保留您原來以**國家、市場、權力、制度和發展**為主軸的比較政治經濟學課程，而不改成純經濟思想史。經濟思想史補充的用途是交代各套理論如何提出問題、在什麼歷史條件下形成、受哪些反對意見挑戰。
+
+| 原課程單元 | 建議增加的經濟思想補充 |
+|---|---|
+| Smith、Marx | Ricardo、Malthus；分工、貿易與分配 |
+| List、Polanyi | Hayek；自由競爭、保護與市場建構 |
+| North、Fligstein、Hirschman、Lindblom | 行為經濟學、資訊、制度與市場權力 |
+| 工業化與發展型國家 | Schumpeter、協調失靈與大推進理論 |
+| 資本主義多樣性、管制 | Keynes、Friedman、Robinson |
+| 依賴理論與東亞發展 | Sen、Piketty；成長、不平等與自由 |
+| 全球化、IT 與中國經濟 | 數位平台、AI、金融風險與產業政策 |
+
+## 四、從一個問題開始閱讀
+
+::: {.panel-tabset}
+### 市場秩序與自由
+Smith → Hayek → Polanyi：**自發秩序可以成立嗎？市場又需要哪些政治制度？**
+
+### 成長與分配
+Ricardo → Marx → Piketty：**產出成長是否會擴大或縮小階級間的不平等？**
+
+### 危機與政策
+Marx → Keynes → Friedman：**危機來自資本主義結構、需求不足，還是貨幣與政策失誤？**
+
+### 發展與創新
+Schumpeter → 大推進理論 → Sen：**工業化與創新是否足以構成真正的發展？**
+:::
+
+## 五、使用與引用說明
+
+Kishtainy 的著作著作權仍受保護。本站僅使用公開書目資訊和簡短章名，所有教學解釋為重新撰寫；不重製整章或大段原文。正式學術論證將以原典、專書與經查核的學術文獻為依據。
+
+**指定補充閱讀：** Kishtainy, N. (2017). *A little history of economics*. Yale University Press. [出版社資訊](https://yalebooks.yale.edu/book/9780300283242/a-little-history-of-economics/)。[@kishtainy2017]

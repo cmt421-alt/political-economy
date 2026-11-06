@@ -599,7 +599,7 @@
     "href": "about.html",
     "title": "關於本課程",
     "section": "",
-    "text": "本開放教學網站以政治經濟學筆記為基礎，透過經典理論、學術爭論、歷史案例及當代產業議題探討國家、市場和社會。\n\n教學架構\n每單元依序提供「核心問題、理論論點、原典閱讀、學術批評、當代應用、課堂討論」。\n本站第一版以繁體中文撰寫，保留英文概念與學術書目；內容將逐步擴充至 List、Polanyi、制度學派、比較資本主義、後進發展與全球化。\n\n\n使用說明\n第一版為試行教材。教材中的當代應用不代表古典學者直接討論相關現代事件。"
+    "text": "這是一個向一般讀者開放的政治經濟學知識網站。從一個日常問題開始，再透過歷史故事、經濟思想與當代案例，探索國家、市場與社會如何相互影響。\n\n閱讀方式\n「政治經濟學十八講」以故事、提問、觀念與延伸閱讀安排。文章不要求讀者具備先修經濟學知識。希望深究的讀者可以再閱讀原典及研究著作。\n本站第一版以繁體中文撰寫，保留英文概念與學術書目；內容將逐步擴充至 List、Polanyi、制度學派、比較資本主義、後進發展與全球化。\n\n\n使用說明\n第一版為試行教材。教材中的當代應用不代表古典學者直接討論相關現代事件。"
   },
   {
     "objectID": "image-credits.html",
@@ -632,23 +632,23 @@
   {
     "objectID": "course.html",
     "href": "course.html",
-    "title": "18 週比較政治經濟學教材",
+    "title": "政治經濟學十八講",
     "section": "",
-    "text": "COURSE · 18 WEEKS\n\n\n這套課程將 Smith 與 Marx 的古典問題，延伸至制度學派、工業化、資本主義多樣性、依賴理論、國家能力及全球化。每週包含核心問題、理論講解、閱讀書目與討論題。"
+    "text": "THE PUBLIC LECTURE SERIES · 18 TALKS\n\n\n從一杯咖啡、一份薪水、一家企業開始，認識市場如何產生、國家如何影響經濟，以及資本主義為何有不同面貌。十八場公開講座連結經典思想、歷史故事與今日世界。每一講都從一個好問題開始，並留下值得繼續思考的開放問題。"
   },
   {
     "objectID": "course.html#國家市場制度與資本主義的比較研究",
     "href": "course.html#國家市場制度與資本主義的比較研究",
-    "title": "18 週比較政治經濟學教材",
+    "title": "政治經濟學十八講",
     "section": "",
-    "text": "這套課程將 Smith 與 Marx 的古典問題，延伸至制度學派、工業化、資本主義多樣性、依賴理論、國家能力及全球化。每週包含核心問題、理論講解、閱讀書目與討論題。"
+    "text": "從一杯咖啡、一份薪水、一家企業開始，認識市場如何產生、國家如何影響經濟，以及資本主義為何有不同面貌。十八場公開講座連結經典思想、歷史故事與今日世界。每一講都從一個好問題開始，並留下值得繼續思考的開放問題。"
   },
   {
-    "objectID": "course.html#教學使用說明",
-    "href": "course.html#教學使用說明",
-    "title": "18 週比較政治經濟學教材",
-    "section": "教學使用說明",
-    "text": "教學使用說明\n原始課綱安排閱讀與課堂討論；網站將指定閱讀整理成可以查詢的教學導讀，而非重製付費專書或論文全文。資料引用以原始課綱列示書目為基礎，後續可再增補 DOI、正式版本與最新研究。"
+    "objectID": "course.html#三本重要的閱讀伙伴",
+    "href": "course.html#三本重要的閱讀伙伴",
+    "title": "政治經濟學十八講",
+    "section": "三本重要的閱讀伙伴",
+    "text": "三本重要的閱讀伙伴\nNiall Kishtainy，《A Little History of Economics》：以故事與人物介紹經濟思想的歷史，提供每一講的通俗敘事靈感。\nJames A. Caporaso 與 David P. Levine，《Theories of Political Economy》：幫助我們從古典、馬克思、凱因斯、新古典、權力、國家與正義等不同進路，分析同一個經濟問題。它是理論比較的骨架，而不是本系列的逐章改寫。(Caporaso 及 Levine 1992年)\n經典原典與後續研究：重要主張仍應以相關學者原著與可核對研究資料為準。本站自行撰寫解說，不複製受保護的書籍章節。\n了解經濟思想家地圖 → · 閱讀參考文獻 →"
   },
   {
     "objectID": "marx.html",
@@ -1243,7 +1243,7 @@
     "href": "index.html",
     "title": "政治經濟學 Political Economy",
     "section": "",
-    "text": "從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較，以及 AI 時代的政治經濟問題放在同一張知識地圖上。\n開始學習 Smith 探索 Marx 進行理論比較\n\n經典原典學術爭論比較制度當代案例\n\n\n\n\nSTART HERE\n\n\n市場如何帶來前所未有的財富，同時也改變社會關係與政治權力？\n\n\n\n\n\n\n01 · CLASSICAL POLITICAL ECONOMY\n\n\n\n\n\n\n市場如何在缺乏中央指揮的情況下協調分工？自利與道德情感如何同時構成商業社會？\n看不見的手勞動分工道德情操\n進入斯密單元 →\n\n\n\n\n\n\n\n02 · CRITIQUE OF POLITICAL ECONOMY\n\n\n\n\n\n\n資本主義為何推動生產力，也產生剝削、異化與階級衝突？經濟關係如何形成政治權力？\n剩餘價值階級衝突資本積累\n進入馬克思單元 →\n\n\n\n\n\n\n首頁人物圖像：Adam Smith（歷史版畫）與 Karl Marx（攝影作品），均來自 Wikimedia Commons，標記為公有領域；點擊肖像可查看原始檔案與權利資訊。完整圖片來源與授權說明 →\n\n\nANALYTICAL LENSES\n\n\n\n\n\n\n\n\n01\n\n\n\n交易、價格與專業化如何形成非預期的秩序？制度與規則在其中扮演什麼角色？\n\n\n\n\n\n\n02\n\n\n\n生產力成長如何轉化為工資、利潤、財產權與不同階級的政治影響力？\n\n\n\n\n\n\n03\n\n\n\n市場是自然形成，還是由法律、國家能力、企業策略與社會規範共同建構？\n\n\n\n\n\nNEW · COURSE MATERIALS\n\n\n依照 2014 年課綱與多年度授課筆記，整理每週理論論點、原始閱讀與討論題，從 Smith、Marx 一路延伸到全球化與國家資本主義。\n進入全部 18 週教材 →\n\n\n\nCOURSE ROADMAP\n\n\n\n\n\n\nI古典政治經濟學Smith · Marx · Ricardo已開放\n\n\nII國家、市場與社會List · Polanyi陸續建置\n\n\nIII制度、社會網絡與權力North · Williamson · Granovetter · Fligstein陸續建置\n\n\nIV工業化與資本主義多樣性Gerschenkron · Johnson · Evans · Hall & Soskice陸續建置\n\n\nV發展與國際政治經濟依賴理論 · 東亞經濟發展 · 全球化陸續建置\n\n\nVI當代產業與科技治理半導體 · AI · 金融監理 · 中國經濟陸續建置\n\n\n\n2026 · THE WEALTH OF NATIONS AT 250\n\n\n1776 年的市場分工理論，如何幫助我們理解全球半導體供應鏈？1844 年的異化概念，又能否用來研究演算法管理下的勞動？\nSmith × Marx：比較兩套提問方式 →\n\n\n\nREADING COMPANION · NIALL KISHTAINY\n\n\n以 Niall Kishtainy 的 A Little History of Economics（2017）作為延伸閱讀導航，串連 Ricardo、Malthus、Keynes、Schumpeter、Hayek、Friedman、Sen 等思想家，與本課程的政治經濟學問題對話。\n探索思想家地圖 → · 耶魯大學出版社書籍介紹\n\n\n\nPRIMARY SOURCES\n\n\n\n\n\n\n\nAdam Smith Works\n《國富論》與《道德情操論》全文、讀書會與閱讀指南。\n閱讀 Adam Smith Works\n\n\n\n\nMarxists Internet Archive\n《資本論》、1844 年手稿及《共產黨宣言》的文字資源。\n閱讀 Marxists Internet Archive\n\n\n\n\n教材分開標示「原始課堂筆記」、「原典解讀」、「後續學術詮釋」及「當代應用」。資料更新需註明來源與時間。最後修訂：2026 年 11 月。"
+    "text": "從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較，以及 AI 時代的政治經濟問題放在同一張知識地圖上。\n開始學習 Smith 探索 Marx 進行理論比較\n\n經典原典學術爭論比較制度當代案例\n\n\n\n\nSTART HERE\n\n\n市場如何帶來前所未有的財富，同時也改變社會關係與政治權力？\n\n\n\n\n\n\n01 · CLASSICAL POLITICAL ECONOMY\n\n\n\n\n\n\n市場如何在缺乏中央指揮的情況下協調分工？自利與道德情感如何同時構成商業社會？\n看不見的手勞動分工道德情操\n進入斯密單元 →\n\n\n\n\n\n\n\n02 · CRITIQUE OF POLITICAL ECONOMY\n\n\n\n\n\n\n資本主義為何推動生產力，也產生剝削、異化與階級衝突？經濟關係如何形成政治權力？\n剩餘價值階級衝突資本積累\n進入馬克思單元 →\n\n\n\n\n\n\n首頁人物圖像：Adam Smith（歷史版畫）與 Karl Marx（攝影作品），均來自 Wikimedia Commons，標記為公有領域；點擊肖像可查看原始檔案與權利資訊。完整圖片來源與授權說明 →\n\n\nANALYTICAL LENSES\n\n\n\n\n\n\n\n\n01\n\n\n\n交易、價格與專業化如何形成非預期的秩序？制度與規則在其中扮演什麼角色？\n\n\n\n\n\n\n02\n\n\n\n生產力成長如何轉化為工資、利潤、財產權與不同階級的政治影響力？\n\n\n\n\n\n\n03\n\n\n\n市場是自然形成，還是由法律、國家能力、企業策略與社會規範共同建構？\n\n\n\n\n\nNEW · COURSE MATERIALS\n\n\n從市場日常、工業革命到國家與資本主義，十八講用故事、思想家和當代議題，帶你看懂經濟背後的政治。\n探索政治經濟學十八講 →\n\n\n\nCOURSE ROADMAP\n\n\n\n\n\n\nI古典政治經濟學Smith · Marx · Ricardo已開放\n\n\nII國家、市場與社會List · Polanyi陸續建置\n\n\nIII制度、社會網絡與權力North · Williamson · Granovetter · Fligstein陸續建置\n\n\nIV工業化與資本主義多樣性Gerschenkron · Johnson · Evans · Hall & Soskice陸續建置\n\n\nV發展與國際政治經濟依賴理論 · 東亞經濟發展 · 全球化陸續建置\n\n\nVI當代產業與科技治理半導體 · AI · 金融監理 · 中國經濟陸續建置\n\n\n\n2026 · THE WEALTH OF NATIONS AT 250\n\n\n1776 年的市場分工理論，如何幫助我們理解全球半導體供應鏈？1844 年的異化概念，又能否用來研究演算法管理下的勞動？\nSmith × Marx：比較兩套提問方式 →\n\n\n\nREADING COMPANION · NIALL KISHTAINY\n\n\n以 Niall Kishtainy 的 A Little History of Economics（2017）作為延伸閱讀導航，串連 Ricardo、Malthus、Keynes、Schumpeter、Hayek、Friedman、Sen 等思想家，與本課程的政治經濟學問題對話。\n探索思想家地圖 → · 耶魯大學出版社書籍介紹\n\n\n\nPRIMARY SOURCES\n\n\n\n\n\n\n\nAdam Smith Works\n《國富論》與《道德情操論》全文、讀書會與閱讀指南。\n閱讀 Adam Smith Works\n\n\n\n\nMarxists Internet Archive\n《資本論》、1844 年手稿及《共產黨宣言》的文字資源。\n閱讀 Marxists Internet Archive\n\n\n\n\n教材分開標示「原始課堂筆記」、「原典解讀」、「後續學術詮釋」及「當代應用」。資料更新需註明來源與時間。最後修訂：2026 年 11 月。"
   },
   {
     "objectID": "index.html#兩個思想起點一個共同問題",
@@ -1253,11 +1253,11 @@
     "text": "市場如何帶來前所未有的財富，同時也改變社會關係與政治權力？"
   },
   {
-    "objectID": "index.html#週課程教材已建立",
-    "href": "index.html#週課程教材已建立",
+    "objectID": "index.html#政治經濟學十八講",
+    "href": "index.html#政治經濟學十八講",
     "title": "政治經濟學 Political Economy",
     "section": "",
-    "text": "依照 2014 年課綱與多年度授課筆記，整理每週理論論點、原始閱讀與討論題，從 Smith、Marx 一路延伸到全球化與國家資本主義。\n進入全部 18 週教材 →"
+    "text": "從市場日常、工業革命到國家與資本主義，十八講用故事、思想家和當代議題，帶你看懂經濟背後的政治。\n探索政治經濟學十八講 →"
   },
   {
     "objectID": "index.html#國富論出版-250-週年重新思考市場的邊界",

@@ -67,3 +67,13 @@ main.content{padding-top:1.7rem}
 .table{font-size:.94rem}
 @media(max-width:850px){.roadmap>div{grid-template-columns:28px 1fr}.roadmap small,.roadmap em{grid-column:2}.keybox{grid-template-columns:1fr}}
 @media(max-width:540px){.home-wrap{padding:0 11px 2rem}.hero-home{padding:1.6rem 1.3rem;border-radius:15px}.hero-home h1{font-size:2rem}.feature-card{padding:23px;min-height:300px}.lesson-banner{padding:22px}.lesson-banner h2{font-size:1.5rem}}
+
+/* Verified historical portraits: links lead to original Wikimedia Commons file pages. */
+.feature-card .portrait-link{display:block;float:right;width:31%;max-width:142px;margin:5px 0 10px 18px;position:relative;z-index:1}
+.figure-portrait{display:block;width:100%;aspect-ratio:3/4;object-fit:cover;object-position:top center;border-radius:12px;box-shadow:0 8px 24px rgba(20,35,45,.19);border:3px solid rgba(255,255,255,.85)}
+.image-credit-home{font-size:.78rem;color:#607582;line-height:1.65;margin:10px 4px 18px}
+.lesson-portrait{max-width:460px;margin:0 auto 1.9rem;text-align:center;border:1px solid #e1e8ed;padding:15px;background:#f7fafb;border-radius:15px}
+.lesson-portrait img{display:block;max-height:330px;max-width:100%;width:auto;margin:auto;border-radius:10px}
+.lesson-portrait figcaption{font-size:.79rem;line-height:1.6;color:#596e7e;margin-top:10px}
+.credit-table td{vertical-align:top}
+@media(max-width:550px){.feature-card .portrait-link{width:28%;margin-left:9px}.figure-portrait{border-width:2px}.feature-card h3{font-size:1.6rem}}

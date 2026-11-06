@@ -1,14 +1,14 @@
 ---
-title: "09｜期中回顧：比較理論與因果機制"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 9 講｜如果兩位思想家意見相反，該相信誰？"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">WEEK 09 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 09 · POLITICAL ECONOMY</span>
 
 ## 如何把思想家的論點轉成可以檢驗的研究問題？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+理論不只是標準答案。把市場、國家、階級與制度放在同一個案例中，才能比較不同解釋。
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>反事實</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 第一個比較軸
 
@@ -36,23 +32,25 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 
 原始期中考題要求從 Polanyi 觀點分析 2008 年美國金融危機，以及從 Hirschman 分析 Exit 與 Voice 的條件和應用。這裡將其轉為公開教學練習，不保留歷年的正式考試配分。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 如何把思想家的論點轉成可以檢驗的研究問題？ |
-| 理論機制 | 比較論證、因果機制、反事實 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 出發的問題 | 如何把思想家的論點轉成可以檢驗的研究問題？ | | 核心觀念 | 比較論證、因果機制、反事實 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+Caporaso 與 Levine 的《Theories of Political Economy》將經濟問題分別置於市場、權力、國家與正義等理論視角。本講邀請讀者比較：同一個現象，換一種分析角度，會改變哪些問題與答案？這是本網站的比較練習。[@caporaso1992]
+
+## 延伸閱讀
 
 - 複習第 1–8 週的原典與比較圖表。
 - 原始期中題目：Week 9 Midterm(1).docx（作為課堂練習來源）。
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 以 Polanyi 分析金融危機時，如何界定市場擴張與社會保護？
 2. 同一個勞資衝突可否同時出現 Exit 與 Voice？哪些制度條件會改變結果？
@@ -63,4 +61,4 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 - `Week 9 Midterm(1).docx`
 - `Week 6 Hirschman & Lindblom(1).docx`
 
-[返回每週課程總覽](../course.qmd) · [上一週](week-08.qmd) · [下一週](week-10.qmd)
+[返回十八講總覽](../course.qmd) · [上一講](week-08.qmd) · [下一講](week-10.qmd)

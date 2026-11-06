@@ -1,14 +1,14 @@
 ---
-title: "08｜新興工業化經濟體與發展型國家"
-subtitle: "Comparative Political Economy · 2014 課綱對應教材"
+title: "第 8 講｜日本、韓國與台灣為何快速工業化？"
+subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
 ::: {.lesson-banner lesson-marx}
-<span class="lesson-eyebrow">WEEK 08 · COMPARATIVE POLITICAL ECONOMY</span>
+<span class="lesson-eyebrow">LECTURE 08 · POLITICAL ECONOMY</span>
 
 ## 為何東亞快速工業化，而許多拉美國家長期受困？
 
-以原課綱與教學筆記為底本，將重要概念組織為可閱讀、可討論、可延伸研究的教材。
+同樣面對國際競爭，為什麼有些國家能迅速升級產業，另一些卻難以擺脫原料出口？
 :::
 
 <div class="keybox">
@@ -17,12 +17,8 @@ subtitle: "Comparative Political Economy · 2014 課綱對應教材"
 <div><strong>核心概念 C</strong>嵌入自主性</div>
 </div>
 
-::: {.callout-note}
-## 教學定位與資料來源
-本頁的**週次**依據「Comparative Political Economy, Fall 2014」課綱，而內容也整合其他年份的授課筆記。因此原始筆記上的 Week 數字不一定與此頁相同。以下為重新編寫的教材導讀，**不等同於指定閱讀全文的逐頁摘要**。未讀到的期刊文章內容不以推測補足。
-:::
 
-## 本週教學內容
+## 故事背後的理論
 
 ### 1. 依賴理論的結構解釋
 
@@ -36,16 +32,19 @@ Johnson 以 MITI 與菁英官僚、政策主導機關、官僚自主性及符合
 
 Evans 強調國家需要有別於私人利益的自主能力，同時與企業及社會保持有效資訊與協作網絡。台灣與韓國的土地改革、企業規模與金融制度差異，可以作為延伸比較。
 
-## 關鍵論點比較與延伸
+## 換個角度想想
 
-| 分析面向 | 本週應掌握的問題 |
+| 分析面向 | 值得探索的問題 |
 |---|---|
-| 研究謎題 | 為何東亞快速工業化，而許多拉美國家長期受困？ |
-| 理論機制 | 中心邊陲、發展型國家、嵌入自主性 如何形成可檢驗的因果解釋？ |
-| 研究方法 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
-| 教學延伸 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
+| 出發的問題 | 為何東亞快速工業化，而許多拉美國家長期受困？ | | 核心觀念 | 中心邊陲、發展型國家、嵌入自主性 在什麼情況下能幫助我們理解現實？ |
+| 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
+| 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
-## 指定與延伸閱讀（沿用原課綱書目）
+## 學者之間的對話
+
+Caporaso 與 Levine 的《Theories of Political Economy》將經濟問題分別置於市場、權力、國家與正義等理論視角。本講邀請讀者比較：同一個現象，換一種分析角度，會改變哪些問題與答案？這是本網站的比較練習。[@caporaso1992]
+
+## 延伸閱讀
 
 - Frank, The Development of Underdevelopment (selected reprint).
 - Evans, Dependent Development (1979), pp. 14–34.
@@ -53,9 +52,8 @@ Evans 強調國家需要有別於私人利益的自主能力，同時與企業�
 - Johnson, MITI and the Japanese Miracle (1982), pp. 3–34, 305–324.
 - Öniş, The Logic of the Developmental State (1991).
 
-> 書目由 2014 年課綱轉寫，尚未逐筆重新核對 DOI、版本與網頁可用性；以原課綱指定頁數為準。本站不公開複製受著作權保護的全文。
 
-## 課堂討論
+## 留給讀者的問題
 
 1. 國家干預的有效性是否取決於官僚制度而非干預規模？
 2. Frank 的依賴理論與 Evans 的嵌入自主性如何解釋東亞？
@@ -66,4 +64,4 @@ Evans 強調國家需要有別於私人利益的自主能力，同時與企業�
 - `NIEs.docx`
 - `Week 14 Dependency Theory and the Newly Industrializing Economies(1).docx`
 
-[返回每週課程總覽](../course.qmd) · [上一週](week-07.qmd) · [下一週](week-09.qmd)
+[返回十八講總覽](../course.qmd) · [上一講](week-07.qmd) · [下一講](week-09.qmd)

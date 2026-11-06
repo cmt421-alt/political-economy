@@ -110,11 +110,11 @@ title-block-banner: false
 ::: {.home-highlight}
 <span class="eyebrow">NEW · COURSE MATERIALS</span>
 
-## 18 週課程教材已建立
+## 政治經濟學十八講
 
-依照 2014 年課綱與多年度授課筆記，整理每週理論論點、原始閱讀與討論題，從 Smith、Marx 一路延伸到全球化與國家資本主義。
+從市場日常、工業革命到國家與資本主義，十八講用故事、思想家和當代議題，帶你看懂經濟背後的政治。
 
-[進入全部 18 週教材 →](course.qmd)
+[探索政治經濟學十八講 →](course.qmd)
 :::
 
 ::: {.section-heading}

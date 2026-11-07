@@ -42,10 +42,10 @@ website:
       - href: image-credits.qmd
         text: 圖片來源
       - href: about.qmd
-        text: 教學理念
+        text: 關於本站
   page-footer:
     border: true
-    left: "© Political Economy Learning Hub · 教學試行版 v0.2"
+    left: "© Political Economy · 政治經濟學十八講"
     right: "原典 · 論證 · 比較 · 當代應用"
   search: true
 bibliography: references.bib
@@ -56,6 +56,6 @@ format:
     lang: zh-TW
     toc: true
     toc-depth: 3
-    code-copy: true
+    code-copy: false
     smooth-scroll: true
     link-external-newwindow: true

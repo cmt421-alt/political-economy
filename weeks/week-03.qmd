@@ -3,13 +3,11 @@ title: "第 3 講｜當房租上漲，社會會如何回應？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 03 · POLITICAL ECONOMY</span>
-
-## 如果市場必須由政治建立，為何市場化會引發社會反作用？
-
-房子不只是一項商品，也是生活空間。市場價格與社會保護為何經常衝突？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 03 · POLITICAL ECONOMY</p>
+<h2>如果市場必須由政治建立，為何市場化會引發社會反作用？</h2>
+<p>房子不只是一項商品，也是生活空間。市場價格與社會保護為何經常衝突？</p>
+</div>
 
 **這一講的關鍵字：** 嵌入性 · 虛構商品 · 雙重運動
 

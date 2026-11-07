@@ -3,13 +3,11 @@ title: "第 5 講｜為什麼是英國發生工業革命？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 05 · POLITICAL ECONOMY</span>
-
-## 為什麼工業革命發生在英國？後進國家為什麼不能照抄英國道路？
-
-蒸汽機、煤炭、帝國貿易與社會關係為何在十八世紀的英國交會？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 05 · POLITICAL ECONOMY</p>
+<h2>為什麼工業革命發生在英國？後進國家為什麼不能照抄英國道路？</h2>
+<p>蒸汽機、煤炭、帝國貿易與社會關係為何在十八世紀的英國交會？</p>
+</div>
 
 **這一講的關鍵字：** 工業革命 · 後進優勢 · 金融與制度替代
 

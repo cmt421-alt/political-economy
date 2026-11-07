@@ -3,13 +3,11 @@ title: "第 2 講｜同一座工廠的兩個故事"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-marx}
-<span class="lesson-eyebrow">LECTURE 02 · POLITICAL ECONOMY</span>
-
-## 市場創造財富的過程，為什麼也可能改變階級與權力？
-
-Smith 看見分工如何提高產量；Marx 則問：新增的財富由誰掌握？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 02 · POLITICAL ECONOMY</p>
+<h2>市場創造財富的過程，為什麼也可能改變階級與權力？</h2>
+<p>Smith 看見分工如何提高產量；Marx 則問：新增的財富由誰掌握？</p>
+</div>
 
 **這一講的關鍵字：** 分工與協調 · 剩餘價值 · 勞動異化
 

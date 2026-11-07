@@ -3,13 +3,11 @@ title: "第 1 講｜一杯咖啡背後的市場"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 01 · POLITICAL ECONOMY</span>
-
-## 市場是自然存在的交換空間，還是政治與社會制度所建構？
-
-從咖啡豆、物流、勞動、支付到食品安全：看似簡單的一杯咖啡，背後有多少看不見的制度？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 01 · POLITICAL ECONOMY</p>
+<h2>市場是自然存在的交換空間，還是政治與社會制度所建構？</h2>
+<p>從咖啡豆、物流、勞動、支付到食品安全：看似簡單的一杯咖啡，背後有多少看不見的制度？</p>
+</div>
 
 **這一講的關鍵字：** 市場作為制度 · 國家與市場 · 比較分析
 

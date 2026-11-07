@@ -3,13 +3,11 @@ title: "第 4 講｜政府要不要保護新興產業？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 04 · POLITICAL ECONOMY</span>
-
-## 自由貿易的短期效率，是否必然帶來後進國家的長期生產力？
-
-如果一家年輕企業必須立刻面對全球巨頭，國家該保護它，還是讓競爭決定命運？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 04 · POLITICAL ECONOMY</p>
+<h2>自由貿易的短期效率，是否必然帶來後進國家的長期生產力？</h2>
+<p>如果一家年輕企業必須立刻面對全球巨頭，國家該保護它，還是讓競爭決定命運？</p>
+</div>
 
 **這一講的關鍵字：** 生產力 · 幼稚產業 · 價格知識
 

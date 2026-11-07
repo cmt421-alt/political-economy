@@ -3,13 +3,11 @@ title: "第 6 講｜我們為什麼相信陌生人？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 06 · POLITICAL ECONOMY</span>
-
-## 企業與市場交換為什麼無法只靠價格與契約解釋？
-
-網購、代工、聘僱都涉及信任。市場交易真的只靠價錢和契約就夠了嗎？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 06 · POLITICAL ECONOMY</p>
+<h2>企業與市場交換為什麼無法只靠價格與契約解釋？</h2>
+<p>網購、代工、聘僱都涉及信任。市場交易真的只靠價錢和契約就夠了嗎？</p>
+</div>
 
 **這一講的關鍵字：** 社會嵌入 · 企業網絡 · 市場權力
 

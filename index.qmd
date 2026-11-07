@@ -48,7 +48,7 @@ title-block-banner: false
       <span class="definition-key">權威 · 交換 · 企業權力</span>
     </article>
   </div>
-  <p class="home-source-note">以上為各學者觀點的教學式轉述，並非逐字引文。主要參考 Caporaso 與 Levine（1992）、Barma 與 Vogel（2008）、Polanyi（1944）及 Lindblom（1977）。[@caporaso1992; @barmaVogel2008; @polanyi1944; @lindblom1977]</p>
+  <p class="home-source-note">以上為各學者觀點的教學式轉述，並非逐字引文。主要參考 Caporaso 與 Levine（1992）、Barma 與 Vogel（2008）、Polanyi（1944）及 Lindblom（1977）。</p>
 </section>
 
 <section class="state-thesis-section">
@@ -102,7 +102,7 @@ title-block-banner: false
       <p>Marx 將資本主義的財產關係、勞動剝削與政治權力連結起來。國家不只是市場之外的中立裁判；從馬克思主義觀點看，國家及其制度也是階級關係與社會衝突的一部分。</p>
     </article>
   </div>
-  <p class="home-source-note">這些思想的差異不只是「政府應該多大」。Smith 討論自由與必要職能，List 討論後進發展，Keynes 討論總體經濟穩定，Polanyi 討論社會保護，Marx 則提出對資本主義生產關係與國家權力的結構性批判。將 Smith 形容為「必要之惡」是概括性教學用語，<strong>不是《國富論》的原文引句</strong>。[@smith1776; @list1841; @polanyi1944; @marx1867]</p>
+  <p class="home-source-note">這些思想的差異不只是「政府應該多大」。Smith 討論自由與必要職能，List 討論後進發展，Keynes 討論總體經濟穩定，Polanyi 討論社會保護，Marx 則提出對資本主義生產關係與國家權力的結構性批判。將 Smith 形容為「必要之惡」是概括性教學用語，<strong>不是《國富論》的原文引句</strong>。</p>
 </section>
 
 <section class="lecture-entry-section">
@@ -112,19 +112,29 @@ title-block-banner: false
   </div>
   <p class="home-prose">從自由市場的起源、國家與工業化，到比較資本主義、經濟轉型與全球化，十八講依五個主題篇章組織。可自由選擇有興趣的問題，不必在首頁翻找全部講座。</p>
   <div class="roadmap">
-    <div><span>I</span><strong><a href="parts/foundations.qmd">市場、財富與思想的起點</a></strong><small>自由市場、分工、階級、社會保護與產業政策</small><em>4 講</em></div>
-    <div><span>II</span><strong><a href="parts/industry-institutions.qmd">工業化、企業與經濟發展</a></strong><small>工業革命、社會網絡、企業組織、發展型國家</small><em>4 講</em></div>
-    <div><span>III</span><strong><a href="parts/how-to-think.qmd">如何比較理論、理解制度變遷</a></strong><small>理論競爭、路徑依賴與制度變遷</small><em>2 講</em></div>
-    <div><span>IV</span><strong><a href="parts/capitalism.qmd">世界上的不同資本主義</a></strong><small>企業協調、國家比較與市場規則</small><em>4 講</em></div>
-    <div><span>V</span><strong><a href="parts/transitions.qmd">發展困境、制度轉型與全球化</a></strong><small>國家能力、制度轉型與全球化</small><em>4 講</em></div>
+    <div><span>I</span><strong><a href="parts/foundations.html">市場、財富與思想的起點</a></strong><small>自由市場、分工、階級、社會保護與產業政策</small><em>4 講</em></div>
+    <div><span>II</span><strong><a href="parts/industry-institutions.html">工業化、企業與經濟發展</a></strong><small>工業革命、社會網絡、企業組織、發展型國家</small><em>4 講</em></div>
+    <div><span>III</span><strong><a href="parts/how-to-think.html">如何比較理論、理解制度變遷</a></strong><small>理論競爭、路徑依賴與制度變遷</small><em>2 講</em></div>
+    <div><span>IV</span><strong><a href="parts/capitalism.html">世界上的不同資本主義</a></strong><small>企業協調、國家比較與市場規則</small><em>4 講</em></div>
+    <div><span>V</span><strong><a href="parts/transitions.html">發展困境、制度轉型與全球化</a></strong><small>國家能力、制度轉型與全球化</small><em>4 講</em></div>
   </div>
-  <p class="homepage-course-link"><a href="course.qmd">查看十八講主題總覽 →</a></p>
+  <p class="homepage-course-link"><a href="course.html">查看十八講主題總覽 →</a></p>
 </section>
 
 <section class="homepage-reading-note">
   <h2>從思想出發，回到現實世界</h2>
   <p>本網站將經典原典與比較政治經濟學研究並讀，並參考 Niall Kishtainy 的經濟思想史敘事，以及 Caporaso 與 Levine 的理論比較架構，探索工業政策、金融監理、產業鏈與當代科技的政治經濟問題。</p>
-  <p><a href="thinkers.qmd">思想家地圖</a>　·　<a href="readings.qmd">深入閱讀</a>　·　<a href="about.qmd">關於本站</a></p>
+  <p><a href="thinkers.html">思想家地圖</a>　·　<a href="readings.html">深入閱讀</a>　·　<a href="about.html">關於本站</a></p>
 </section>
 
 </div>
+
+## 主要參考著作
+
+- Caporaso, James A., and David P. Levine. *Theories of Political Economy* (1992).
+- Barma, Naazneen H., and Steven K. Vogel, eds. *The Political Economy Reader: Markets as Institutions* (2008).
+- Smith, Adam. *The Wealth of Nations* (1776), Books IV–V.
+- Marx, Karl. *Capital*, Vol. I (1867).
+- Polanyi, Karl. *The Great Transformation* (1944).
+- Lindblom, Charles E. *Politics and Markets* (1977).
+

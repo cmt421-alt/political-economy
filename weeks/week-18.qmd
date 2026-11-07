@@ -3,13 +3,11 @@ title: "第 18 講｜十八講之後：我們如何看懂經濟新聞？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 18 · POLITICAL ECONOMY</span>
-
-## 如何將政治經濟學理論轉化為可累積、可反駁的研究？
-
-從物價、工資、半導體到產業政策，一則新聞可以用市場、階級、權力與制度多重視角解讀。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 18 · POLITICAL ECONOMY</p>
+<h2>如何將政治經濟學理論轉化為可累積、可反駁的研究？</h2>
+<p>從物價、工資、半導體到產業政策，一則新聞可以用市場、階級、權力與制度多重視角解讀。</p>
+</div>
 
 **這一講的關鍵字：** 研究設計 · 機制比較 · 理論延伸
 

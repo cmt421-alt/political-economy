@@ -3,13 +3,11 @@ title: "第 16 講｜從計畫經濟走向市場，應該快還是慢？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 16 · POLITICAL ECONOMY</span>
-
-## 建立市場制度有沒有最佳改革順序？
-
-同樣希望建立市場，為什麼有人主張一次改革到底，有人認為制度必須逐步長成？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 16 · POLITICAL ECONOMY</p>
+<h2>建立市場制度有沒有最佳改革順序？</h2>
+<p>同樣希望建立市場，為什麼有人主張一次改革到底，有人認為制度必須逐步長成？</p>
+</div>
 
 **這一講的關鍵字：** 震盪療法 · 漸進主義 · 改革順序
 

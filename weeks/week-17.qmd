@@ -3,13 +3,11 @@ title: "第 17 講｜全球化讓國家退場了嗎？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 17 · POLITICAL ECONOMY</span>
-
-## 全球化削弱國家，還是改變國家參與資本主義的方式？
-
-跨國供應鏈、數位平台與國家投資企業同時擴張。市場越全球化，政府是否反而有新的角色？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 17 · POLITICAL ECONOMY</p>
+<h2>全球化削弱國家，還是改變國家參與資本主義的方式？</h2>
+<p>跨國供應鏈、數位平台與國家投資企業同時擴張。市場越全球化，政府是否反而有新的角色？</p>
+</div>
 
 **這一講的關鍵字：** 全球化 · 國家資本主義 · 企業所有權
 

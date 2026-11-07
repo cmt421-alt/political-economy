@@ -3,13 +3,11 @@ title: "第 13 講｜美國、德國與日本：資本主義的三種面貌"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-marx}
-<span class="lesson-eyebrow">LECTURE 13 · POLITICAL ECONOMY</span>
-
-## 制度是否隨全球化趨同，還是沿既有道路調整？
-
-美國的勞動流動、德國的企業治理與日本的供應商網絡，為何會形成不同的經濟運作方式？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 13 · POLITICAL ECONOMY</p>
+<h2>制度是否隨全球化趨同，還是沿既有道路調整？</h2>
+<p>美國的勞動流動、德國的企業治理與日本的供應商網絡，為何會形成不同的經濟運作方式？</p>
+</div>
 
 **這一講的關鍵字：** 勞資關係 · 金融體系 · 制度調整
 

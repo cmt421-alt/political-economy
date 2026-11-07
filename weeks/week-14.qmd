@@ -3,13 +3,11 @@ title: "第 14 講｜為什麼市場自由化之後，規則反而更多？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 14 · POLITICAL ECONOMY</span>
-
-## 市場自由化是否意味政府退場，還是改變治理形式？
-
-銀行、航空與電信市場開放後，政府真的退出了嗎？新競爭往往需要新的規則。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 14 · POLITICAL ECONOMY</p>
+<h2>市場自由化是否意味政府退場，還是改變治理形式？</h2>
+<p>銀行、航空與電信市場開放後，政府真的退出了嗎？新競爭往往需要新的規則。</p>
+</div>
 
 **這一講的關鍵字：** 經濟管制 · 社會管制 · 再管制
 

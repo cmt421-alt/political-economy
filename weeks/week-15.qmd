@@ -3,13 +3,11 @@ title: "第 15 講｜窮國為何不容易變富？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 15 · POLITICAL ECONOMY</span>
-
-## 貧窮國家缺乏的是市場自由，還是建立市場的制度能力？
-
-發展不只是蓋工廠或吸引投資，也涉及社會秩序、財產權、國家能力與人的實質自由。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 15 · POLITICAL ECONOMY</p>
+<h2>貧窮國家缺乏的是市場自由，還是建立市場的制度能力？</h2>
+<p>發展不只是蓋工廠或吸引投資，也涉及社會秩序、財產權、國家能力與人的實質自由。</p>
+</div>
 
 **這一講的關鍵字：** 國家能力 · 財產權 · 發展作為自由
 

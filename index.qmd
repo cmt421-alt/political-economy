@@ -6,6 +6,7 @@ toc: false
 title-block-banner: false
 ---
 
+```{=html}
 <div class="home-wrap">
 
 <section class="hero-home hero-thesis">
@@ -128,6 +129,8 @@ title-block-banner: false
 </section>
 
 </div>
+```
+
 
 ## 主要參考著作
 

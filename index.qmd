@@ -6,178 +6,125 @@ toc: false
 title-block-banner: false
 ---
 
-::: {.home-wrap}
+<div class="home-wrap">
 
-::: {.hero-home}
-::: {.hero-kicker}
+<section class="hero-home hero-thesis">
+  <div class="hero-kicker">POLITICAL ECONOMY · 國家 × 市場 × 權力</div>
+  <h1>誰決定市場的界線？</h1>
+  <p class="hero-lead">市場創造財富，國家制定規則。<strong>國家有權決定市場可以在哪些領域、以何種方式運作；市場雖能影響國家政策，卻無法僅憑交換行為將國家排除在外。</strong></p>
+  <p>從古典自由主義到馬克思主義，政治經濟學追問的始終不只是「如何創造財富」，更是「誰有權決定財富的創造與分配方式」。</p>
+  <div class="hero-tags"><span>市場的制度基礎</span><span>公共權威</span><span>國家干預</span><span>財富與權力</span></div>
+</section>
 
-:::
+<section class="home-intro-section">
+  <div class="section-heading">
+    <span class="eyebrow">WHAT IS POLITICAL ECONOMY?</span>
+    <h2>什麼是政治經濟學？</h2>
+  </div>
+  <p class="home-prose">政治經濟學（Political Economy）研究經濟活動與政治權力如何相互作用：誰決定資源配置的規則？市場制度如何形成？國家為何介入經濟？不同的制度又如何影響財富創造、分配和社會關係？它不是把「政治」與「經濟」拆成兩個獨立世界，而是從兩者的相互依存出發。</p>
+  <div class="definition-grid">
+    <article class="definition-card">
+      <span class="definition-name">James A. Caporaso & David P. Levine</span>
+      <h3>政治與經濟的交會</h3>
+      <p>從國家經濟事務的治理出發，比較經典、馬克思、凱因斯、新古典、國家中心與權力中心等進路如何理解政治與經濟的關係。</p>
+      <span class="definition-key">國家 · 配置 · 理論爭論</span>
+    </article>
+    <article class="definition-card">
+      <span class="definition-name">Naazneen H. Barma & Steven K. Vogel</span>
+      <h3>市場本身就是制度</h3>
+      <p>市場不是自然存在、與社會無關的空間。財產權、法律、企業規則、權力關係、社會網絡與文化規範，共同塑造真實世界的市場。</p>
+      <span class="definition-key">市場制度 · 規則 · 社會嵌入</span>
+    </article>
+    <article class="definition-card">
+      <span class="definition-name">Karl Polanyi</span>
+      <h3>市場嵌入社會</h3>
+      <p>經濟不能脫離社會關係而理解；市場擴張牽動勞動、土地與貨幣，也可能引發社會保護的政治回應。</p>
+      <span class="definition-key">社會保護 · 市場化 · 雙重運動</span>
+    </article>
+    <article class="definition-card">
+      <span class="definition-name">Charles E. Lindblom</span>
+      <h3>權威與交換是不同的協調方式</h3>
+      <p>市場透過交換協調活動，政府則具有公共權威。企業的投資、就業與資本配置也能形成政治影響力，使政府與市場的關係並非單向。</p>
+      <span class="definition-key">權威 · 交換 · 企業權力</span>
+    </article>
+  </div>
+  <p class="home-source-note">以上為各學者觀點的教學式轉述，並非逐字引文。主要參考 Caporaso 與 Levine（1992）、Barma 與 Vogel（2008）、Polanyi（1944）及 Lindblom（1977）。[@caporaso1992; @barmaVogel2008; @polanyi1944; @lindblom1977]</p>
+</section>
 
-# 理解國家與市場之間的關係 
+<section class="state-thesis-section">
+  <div class="section-heading">
+    <span class="eyebrow">THE CENTRAL ARGUMENT</span>
+    <h2>國家與市場之間，存在制度性的權力不對稱</h2>
+  </div>
+  <p class="home-prose">在現代國家的制度架構下，政府得依法律和政治程序決定是否建立市場、允許哪些交易、如何界定財產權，以及管制、課稅或提供公共服務的範圍。市場參與者無法只靠價格或交易契約，單方面取消這些公共權威。</p>
+  <div class="asymmetry-layout">
+    <article class="asymmetry-side asymmetry-state">
+      <span class="definition-name">PUBLIC AUTHORITY</span>
+      <h3>國家能夠界定市場</h3>
+      <p>制定並執行法律、界定財產權、徵稅、提供公共財、限制或開放特定交易，並選擇介入經濟的方式與程度。</p>
+      <p class="asymmetry-small">國家的權力並非無限；它也受到憲法、政治制度、行政能力與社會力量約束。</p>
+    </article>
+    <div class="asymmetry-middle"><span>權力與影響<br>不完全對稱</span></div>
+    <article class="asymmetry-side asymmetry-market">
+      <span class="definition-name">MARKET EXCHANGE</span>
+      <h3>市場無法自行排除國家</h3>
+      <p>企業和消費者透過價格、契約與投資影響經濟，也可能藉由遊說、資本流動、就業與稅收影響政府決策。</p>
+      <p class="asymmetry-small">但市場交易本身不具有取代法律、取消政府或獨立確立公共權威的權力。</p>
+    </article>
+  </div>
+  <p class="home-prose thesis-conclusion"><strong>本網站的核心命題：</strong>「國家介入多少」是一個政治與制度選擇，不是由市場機制單獨決定的自然常數。真正值得追問的是：國家為何選擇介入、以什麼方式介入、其權力受誰制衡，以及介入造成什麼結果。</p>
+</section>
 
-從亞當・斯密與馬克思出發，將古典理論、制度分析、歷史比較，以及 AI 時代的政治經濟問題放在同一張知識地圖上。
+<section class="traditions-section">
+  <div class="section-heading">
+    <span class="eyebrow">FROM CLASSICAL LIBERALISM TO MARXISM</span>
+    <h2>不同思想家，如何理解國家的角色？</h2>
+  </div>
+  <div class="traditions-grid">
+    <article class="tradition-card">
+      <span class="tradition-era">01 · CLASSICAL LIBERALISM</span>
+      <h3>Adam Smith｜讓政府介入有其界線</h3>
+      <p>Smith 強調競爭、分工與自由交換的力量，警惕政府與商人結盟造成的壟斷和特權。若以教學語言概括，可以說他把過多政府干預視為需要警惕的「必要之惡」問題；<strong>但他並不主張廢除國家</strong>，而明確承認國防、司法與部分公共工程、公共制度的必要性。</p>
+    </article>
+    <article class="tradition-card">
+      <span class="tradition-era">02 · NATIONAL DEVELOPMENT</span>
+      <h3>Friedrich List｜國家培養生產能力</h3>
+      <p>後進國家不能只看眼前商品價格；國家可以透過基礎建設、關稅與產業政策，支持長期生產力的形成。這也帶來保護與尋租之間的兩難。</p>
+    </article>
+    <article class="tradition-card">
+      <span class="tradition-era">03 · CRISIS AND SOCIETY</span>
+      <h3>Keynes 與 Polanyi｜市場需要政策與社會保護</h3>
+      <p>Keynes 關切衰退、失業和總需求不足時政府的穩定作用；Polanyi 則追問市場化造成的社會成本，以及勞動、土地與貨幣所引發的保護性回應。</p>
+    </article>
+    <article class="tradition-card">
+      <span class="tradition-era">04 · MARXIAN CRITIQUE</span>
+      <h3>Karl Marx｜國家與階級權力不能分開</h3>
+      <p>Marx 將資本主義的財產關係、勞動剝削與政治權力連結起來。國家不只是市場之外的中立裁判；從馬克思主義觀點看，國家及其制度也是階級關係與社會衝突的一部分。</p>
+    </article>
+  </div>
+  <p class="home-source-note">這些思想的差異不只是「政府應該多大」。Smith 討論自由與必要職能，List 討論後進發展，Keynes 討論總體經濟穩定，Polanyi 討論社會保護，Marx 則提出對資本主義生產關係與國家權力的結構性批判。將 Smith 形容為「必要之惡」是概括性教學用語，<strong>不是《國富論》的原文引句</strong>。[@smith1776; @list1841; @polanyi1944; @marx1867]</p>
+</section>
 
-[開始學習 Smith](smith.qmd){.btn .btn-light .btn-lg} [探索 Marx](marx.qmd){.btn .btn-outline-light .btn-lg} [進行理論比較](compare.qmd){.btn .btn-outline-light .btn-lg}
+<section class="lecture-entry-section">
+  <div class="section-heading">
+    <span class="eyebrow">EXPLORE · THE PUBLIC LECTURE SERIES</span>
+    <h2>政治經濟學十八講</h2>
+  </div>
+  <p class="home-prose">從自由市場的起源、國家與工業化，到比較資本主義、經濟轉型與全球化，十八講依五個主題篇章組織。可自由選擇有興趣的問題，不必在首頁翻找全部講座。</p>
+  <div class="roadmap">
+    <div><span>I</span><strong><a href="parts/foundations.qmd">市場、財富與思想的起點</a></strong><small>自由市場、分工、階級、社會保護與產業政策</small><em>4 講</em></div>
+    <div><span>II</span><strong><a href="parts/industry-institutions.qmd">工業化、企業與經濟發展</a></strong><small>工業革命、社會網絡、企業組織、發展型國家</small><em>4 講</em></div>
+    <div><span>III</span><strong><a href="parts/how-to-think.qmd">如何比較理論、理解制度變遷</a></strong><small>理論競爭、路徑依賴與制度變遷</small><em>2 講</em></div>
+    <div><span>IV</span><strong><a href="parts/capitalism.qmd">世界上的不同資本主義</a></strong><small>企業協調、國家比較與市場規則</small><em>4 講</em></div>
+    <div><span>V</span><strong><a href="parts/transitions.qmd">發展困境、制度轉型與全球化</a></strong><small>國家能力、制度轉型與全球化</small><em>4 講</em></div>
+  </div>
+  <p class="homepage-course-link"><a href="course.qmd">查看十八講主題總覽 →</a></p>
+</section>
 
-::: {.hero-tags}
-<span>經典原典</span><span>學術爭論</span><span>比較制度</span><span>當代案例</span>
-:::
-:::
+<section class="homepage-reading-note">
+  <h2>從思想出發，回到現實世界</h2>
+  <p>本網站將經典原典與比較政治經濟學研究並讀，並參考 Niall Kishtainy 的經濟思想史敘事，以及 Caporaso 與 Levine 的理論比較架構，探索工業政策、金融監理、產業鏈與當代科技的政治經濟問題。</p>
+  <p><a href="thinkers.qmd">思想家地圖</a>　·　<a href="readings.qmd">深入閱讀</a>　·　<a href="about.qmd">關於本站</a></p>
+</section>
 
-::: {.section-heading}
-<span class="eyebrow">START HERE</span>
-
-## 兩個思想起點，一個共同問題
-
-市場如何帶來前所未有的財富，同時也改變社會關係與政治權力？
-:::
-
-::: {.grid}
-::: {.g-col-12 .g-col-lg-6}
-::: {.feature-card .smith-card}
-<div class="card-topline">01 · CLASSICAL POLITICAL ECONOMY</div>
-
-<a class="portrait-link" href="https://commons.wikimedia.org/wiki/File:AdamSmith.jpg" title="前往 Wikimedia Commons 圖像來源及授權說明"><img class="figure-portrait" src="https://commons.wikimedia.org/wiki/Special:FilePath/AdamSmith.jpg" alt="亞當・斯密肖像：依 James Tassie 1787 年紀念浮雕製作的歷史版畫" loading="lazy"></a>
-
-### Adam Smith
-
-#### 市場、分工與道德
-
-市場如何在缺乏中央指揮的情況下協調分工？自利與道德情感如何同時構成商業社會？
-
-<span class="tag">看不見的手</span><span class="tag">勞動分工</span><span class="tag">道德情操</span>
-
-[進入斯密單元 →](smith.qmd)
-:::
-:::
-::: {.g-col-12 .g-col-lg-6}
-::: {.feature-card .marx-card}
-<div class="card-topline">02 · CRITIQUE OF POLITICAL ECONOMY</div>
-
-<a class="portrait-link" href="https://commons.wikimedia.org/wiki/File:Karl_Marx_by_Mayall,_c1870.png" title="前往 Wikimedia Commons 圖像來源及授權說明"><img class="figure-portrait" src="https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_by_Mayall,_c1870.png" alt="卡爾・馬克思約1875年肖像照片" loading="lazy"></a>
-
-### Karl Marx
-
-#### 資本、勞動與階級
-
-資本主義為何推動生產力，也產生剝削、異化與階級衝突？經濟關係如何形成政治權力？
-
-<span class="tag">剩餘價值</span><span class="tag">階級衝突</span><span class="tag">資本積累</span>
-
-[進入馬克思單元 →](marx.qmd)
-:::
-:::
-:::
-
-<p class="image-credit-home">首頁人物圖像：Adam Smith（歷史版畫）與 Karl Marx（攝影作品），均來自 Wikimedia Commons，標記為公有領域；點擊肖像可查看原始檔案與權利資訊。<a href="image-credits.qmd">完整圖片來源與授權說明 →</a></p>
-
-::: {.section-heading}
-<span class="eyebrow">ANALYTICAL LENSES</span>
-
-## 三個貫穿全課程的核心問題
-:::
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-::: {.concept-card .concept-gold}
-<div class="concept-icon">01</div>
-
-### 市場如何協調？
-
-交易、價格與專業化如何形成非預期的秩序？制度與規則在其中扮演什麼角色？
-:::
-:::
-::: {.g-col-12 .g-col-md-4}
-::: {.concept-card .concept-red}
-<div class="concept-icon">02</div>
-
-### 財富如何分配？
-
-生產力成長如何轉化為工資、利潤、財產權與不同階級的政治影響力？
-:::
-:::
-::: {.g-col-12 .g-col-md-4}
-::: {.concept-card .concept-teal}
-<div class="concept-icon">03</div>
-
-### 國家如何塑造市場？
-
-市場是自然形成，還是由法律、國家能力、企業策略與社會規範共同建構？
-:::
-:::
-:::
-
-::: {.home-highlight}
-<span class="eyebrow">READ BY THEME · FIVE PARTS</span>
-
-## 政治經濟學十八講 · 五大主題
-
-從五大主題選擇你感興趣的問題，不需要在一頁翻找十八講。每篇引導你閱讀兩至四場講座。
-
-[探索政治經濟學十八講 →](course.qmd)
-:::
-
-::: {.section-heading}
-<span class="eyebrow">COURSE ROADMAP</span>
-
-## 五個入口，從你最感興趣的地方開始
-:::
-
-<div class="roadmap">
-  <div><span>I</span><strong><a href="parts/foundations.qmd">市場、財富與思想的起點</a></strong><small>自由市場、分工、階級、社會保護與產業政策</small><em>4 講</em></div>
-  <div><span>II</span><strong><a href="parts/industry-institutions.qmd">工業化、企業與經濟發展</a></strong><small>工業革命、社會網絡、企業組織、發展型國家</small><em>4 講</em></div>
-  <div><span>III</span><strong><a href="parts/how-to-think.qmd">如何比較理論、理解制度變遷</a></strong><small>因果推論、理論競爭、路徑依賴與制度變遷</small><em>2 講</em></div>
-  <div><span>IV</span><strong><a href="parts/capitalism.qmd">世界上的不同資本主義</a></strong><small>資本主義類型、企業協調、國家比較、監理與市場規則</small><em>4 講</em></div>
-  <div><span>V</span><strong><a href="parts/transitions.qmd">發展困境、制度轉型與全球化</a></strong><small>國家能力、財產權、轉型路徑、全球化與國家資本主義</small><em>4 講</em></div>
 </div>
-
-::: {.home-highlight}
-<span class="eyebrow">2026 · THE WEALTH OF NATIONS AT 250</span>
-
-## 《國富論》出版 250 週年：重新思考市場的邊界
-
-1776 年的市場分工理論，如何幫助我們理解全球半導體供應鏈？1844 年的異化概念，又能否用來研究演算法管理下的勞動？
-
-[Smith × Marx：比較兩套提問方式 →](compare.qmd)
-:::
-
-::: {.home-highlight}
-<span class="eyebrow">READING COMPANION · NIALL KISHTAINY</span>
-
-## 從兩位思想家，走向一部經濟思想史
-
-以 Niall Kishtainy 的 *A Little History of Economics*（2017）作為延伸閱讀導航，串連 Ricardo、Malthus、Keynes、Schumpeter、Hayek、Friedman、Sen 等思想家，與本課程的政治經濟學問題對話。
-
-[探索思想家地圖 →](thinkers.qmd) · [耶魯大學出版社書籍介紹](https://yalebooks.yale.edu/book/9780300283242/a-little-history-of-economics/)
-:::
-
-::: {.section-heading}
-<span class="eyebrow">PRIMARY SOURCES</span>
-
-## 從原典閱讀開始
-:::
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-::: {.resource-card}
-**Adam Smith Works**
-
-《國富論》與《道德情操論》全文、讀書會與閱讀指南。
-
-[閱讀 Adam Smith Works](https://www.adamsmithworks.org/)
-:::
-:::
-::: {.g-col-12 .g-col-md-6}
-::: {.resource-card}
-**Marxists Internet Archive**
-
-《資本論》、1844 年手稿及《共產黨宣言》的文字資源。
-
-[閱讀 Marxists Internet Archive](https://www.marxists.org/)
-:::
-:::
-:::
-
-<p class="source-note">各篇區分經典理論、學術詮釋與當代應用，並持續增補可核對的閱讀來源。</p>
-
-:::

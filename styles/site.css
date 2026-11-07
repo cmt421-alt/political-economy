@@ -103,3 +103,33 @@ main.content{padding-top:1.7rem}
 .public-lecture-intro p{color:#e4f3f6;margin:.3rem 0;line-height:1.85}
 .public-lecture-intro .lecture-eyebrow{font-size:.77rem;font-weight:800;letter-spacing:.12em;color:#f4cd86}
 @media(max-width:700px){.public-lecture-intro{padding:24px 23px}}
+
+/* Homepage framework: definitions and the asymmetric institutional relationship between state and market */
+.hero-thesis{margin-bottom:2.5rem}
+.hero-thesis .hero-lead{font-size:clamp(1.16rem,2vw,1.5rem);line-height:1.75;max-width:920px}
+.hero-thesis strong{color:#fff3ca}
+.home-intro-section,.state-thesis-section,.traditions-section,.lecture-entry-section{margin:2.4rem 0 4rem}
+.home-prose{font-size:1.07rem;max-width:980px;line-height:1.95}
+.definition-grid,.traditions-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:1.5rem 0}
+.definition-card{border:1px solid #dce7ec;border-radius:17px;padding:24px 26px;background:#f8fbfc;border-top:4px solid #157e86}
+.definition-card:nth-child(2){border-top-color:#d2a34f}.definition-card:nth-child(3){border-top-color:#9b4558}.definition-card:nth-child(4){border-top-color:#7d88ab}
+.definition-name,.tradition-era{font-size:.78rem;color:#557785;font-weight:800;letter-spacing:.025em}
+.definition-card h3,.tradition-card h3{font-size:1.2rem;margin:.65rem 0 .5rem;font-weight:800}
+.definition-card p,.tradition-card p{line-height:1.85;margin:0}
+.definition-key{display:block;margin-top:1rem;color:#47727a;font-size:.8rem;font-weight:700}
+.home-source-note{font-size:.84rem;color:#607582;line-height:1.85;margin:1rem 0}
+.state-thesis-section{padding:30px 34px 35px;background:#f0f7f8;border-radius:23px;border:1px solid #dbeaec}
+.state-thesis-section .section-heading{margin-top:.3rem}
+.asymmetry-layout{display:grid;grid-template-columns:minmax(0,1fr) 110px minmax(0,1fr);align-items:stretch;gap:16px;margin:1.7rem 0}
+.asymmetry-side{background:#fff;border-radius:17px;padding:25px 26px;border:1px solid #d9e5eb}
+.asymmetry-state{border-top:5px solid #137b84}.asymmetry-market{border-top:5px solid #b79d70}
+.asymmetry-side h3{font-size:1.25rem;margin:.7rem 0}.asymmetry-side p{line-height:1.8}
+.asymmetry-side .asymmetry-small{font-size:.88rem;color:#667b87}
+.asymmetry-middle{display:flex;align-items:center;justify-content:center;text-align:center;font-size:.9rem;font-weight:800;color:#426876;line-height:1.7}
+.thesis-conclusion{margin:1.2rem 0 .2rem}
+.tradition-card{border-left:5px solid #d4a656;background:#fcfcfd;border-radius:12px;padding:22px 24px;border-top:1px solid #e0e8ee;border-right:1px solid #e0e8ee;border-bottom:1px solid #e0e8ee}
+.tradition-card:nth-child(2){border-left-color:#157f88}.tradition-card:nth-child(3){border-left-color:#6686a5}.tradition-card:nth-child(4){border-left-color:#9b4558}
+.homepage-course-link{margin:1.3rem 0;font-weight:800}
+.homepage-reading-note{background:#f6f8fa;border:1px solid #e0e8ed;border-radius:17px;padding:28px 31px;margin:3rem 0}
+.homepage-reading-note h2{margin-top:0}.homepage-reading-note p{line-height:1.85}
+@media(max-width:760px){.definition-grid,.traditions-grid{grid-template-columns:1fr}.state-thesis-section{padding:18px 19px}.asymmetry-layout{grid-template-columns:1fr}.asymmetry-middle{padding:2px 0}.home-prose{font-size:1rem}}

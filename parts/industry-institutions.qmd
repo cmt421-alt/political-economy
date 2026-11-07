@@ -1,0 +1,61 @@
+---
+title: "第二篇｜工業化、企業與經濟發展"
+subtitle: "從工業革命到亞洲經濟起飛，制度如何影響生產與投資？"
+toc: false
+---
+
+<div class="chapter-kicker">PART 02 · 4 LECTURES</div>
+
+## 這一篇要回答什麼？
+
+從工業革命到亞洲經濟起飛，制度如何影響生產與投資？
+
+<span class="chapter-keywords">工業革命、社會網絡、企業組織、發展型國家</span>
+
+## 四場講座，從不同角度切入
+
+::: {.chapter-grid}
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 05</span>
+
+### 第 5 講｜工業革命為何首先發生在英國？
+
+為什麼工業革命發生在英國？
+
+[閱讀這一講 →](../weeks/week-05.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 06</span>
+
+### 第 6 講｜我們為什麼相信陌生人？
+
+價格之外，信任為何重要？
+
+[閱讀這一講 →](../weeks/week-06.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 07</span>
+
+### 第 7 講｜企業為什麼不把所有事情交給市場？
+
+企業與市場之間有何界線？
+
+[閱讀這一講 →](../weeks/week-07.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 08</span>
+
+### 第 8 講｜日本、韓國與台灣為何快速工業化？
+
+東亞快速發展有什麼制度條件？
+
+[閱讀這一講 →](../weeks/week-08.qmd)
+:::
+:::
+
+## 還想繼續探索？
+
+- [思想家地圖](../thinkers.qmd)
+- [原典與閱讀資源](../readings.qmd)
+
+<div class="series-navigation">[← 返回十八講主題總覽](../course.qmd) · [上一篇：市場、財富與思想的起點](foundations.qmd) · [下一篇：如何比較理論、理解制度變遷](how-to-think.qmd)</div>

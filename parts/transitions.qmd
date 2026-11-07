@@ -1,0 +1,61 @@
+---
+title: "第五篇｜發展困境、制度轉型與全球化"
+subtitle: "貧窮為何持續？市場改革該快還是慢？全球化改變了國家嗎？"
+toc: false
+---
+
+<div class="chapter-kicker">PART 05 · 4 LECTURES</div>
+
+## 這一篇要回答什麼？
+
+貧窮為何持續？市場改革該快還是慢？全球化改變了國家嗎？
+
+<span class="chapter-keywords">國家能力、財產權、轉型路徑、全球化與國家資本主義</span>
+
+## 四場講座，從不同角度切入
+
+::: {.chapter-grid}
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 15</span>
+
+### 第 15 講｜窮國為何不容易變富？
+
+制度如何讓發展更容易或更困難？
+
+[閱讀這一講 →](../weeks/week-15.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 16</span>
+
+### 第 16 講｜從計畫經濟走向市場，應該快還是慢？
+
+改革順序如何改變結果？
+
+[閱讀這一講 →](../weeks/week-16.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 17</span>
+
+### 第 17 講｜全球化讓國家退場了嗎？
+
+全球化是否改變國家的角色？
+
+[閱讀這一講 →](../weeks/week-17.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 18</span>
+
+### 第 18 講｜十八講之後：我們如何看懂經濟新聞？
+
+如何用十八講解析一則經濟新聞？
+
+[閱讀這一講 →](../weeks/week-18.qmd)
+:::
+:::
+
+## 還想繼續探索？
+
+- [進一步閱讀](../readings.qmd)
+- [思想家地圖](../thinkers.qmd)
+
+<div class="series-navigation">[← 返回十八講主題總覽](../course.qmd) · [上一篇：世界上的不同資本主義](capitalism.qmd) </div>

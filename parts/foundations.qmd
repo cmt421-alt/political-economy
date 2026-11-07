@@ -1,0 +1,62 @@
+---
+title: "第一篇｜市場、財富與思想的起點"
+subtitle: "市場從何而來？誰創造財富？國家又該扮演什麼角色？"
+toc: false
+---
+
+<div class="chapter-kicker">PART 01 · 4 LECTURES</div>
+
+## 這一篇要回答什麼？
+
+市場從何而來？誰創造財富？國家又該扮演什麼角色？
+
+<span class="chapter-keywords">自由市場、分工、階級、社會保護與產業政策</span>
+
+## 四場講座，從不同角度切入
+
+::: {.chapter-grid}
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 01</span>
+
+### 第 1 講｜政治經濟學是什麼？市場真的能自己運作嗎？
+
+市場是自然存在的，還是社會共同建立的？
+
+[閱讀這一講 →](../weeks/week-01.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 02</span>
+
+### 第 2 講｜亞當・斯密與馬克思：財富從哪裡來？
+
+財富成長為何不必然平均分配？
+
+[閱讀這一講 →](../weeks/week-02.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 03</span>
+
+### 第 3 講｜波蘭尼：為什麼市場越自由，社會越想保護自己？
+
+自由市場如何引發社會保護？
+
+[閱讀這一講 →](../weeks/week-03.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 04</span>
+
+### 第 4 講｜保護產業還是自由貿易？李斯特與自由主義的辯論
+
+產業政策是助力，還是保護落後？
+
+[閱讀這一講 →](../weeks/week-04.qmd)
+:::
+:::
+
+## 還想繼續探索？
+
+- [亞當・斯密的思想世界](../smith.qmd)
+- [馬克思與資本論](../marx.qmd)
+- [兩種理論的對話](../compare.qmd)
+
+<div class="series-navigation">[← 返回十八講主題總覽](../course.qmd)  · [下一篇：工業化、企業與經濟發展](industry-institutions.qmd)</div>

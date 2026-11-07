@@ -1,0 +1,61 @@
+---
+title: "第四篇｜世界上的不同資本主義"
+subtitle: "為什麼各國企業、勞資關係與市場規則如此不同？"
+toc: false
+---
+
+<div class="chapter-kicker">PART 04 · 4 LECTURES</div>
+
+## 這一篇要回答什麼？
+
+為什麼各國企業、勞資關係與市場規則如此不同？
+
+<span class="chapter-keywords">資本主義類型、企業協調、國家比較、監理與市場規則</span>
+
+## 四場講座，從不同角度切入
+
+::: {.chapter-grid}
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 11</span>
+
+### 第 11 講｜世界上真的只有一種資本主義嗎？
+
+資本主義有沒有不同的運作方式？
+
+[閱讀這一講 →](../weeks/week-11.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 12</span>
+
+### 第 12 講｜美國與德國的企業為何如此不同？
+
+企業制度如何塑造不同策略？
+
+[閱讀這一講 →](../weeks/week-12.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 13</span>
+
+### 第 13 講｜美國、德國與日本：資本主義的三種面貌
+
+不同國家的制度如何延續或轉型？
+
+[閱讀這一講 →](../weeks/week-13.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 14</span>
+
+### 第 14 講｜為什麼市場自由化之後，規則反而更多？
+
+競爭更多，真的需要更少規則嗎？
+
+[閱讀這一講 →](../weeks/week-14.qmd)
+:::
+:::
+
+## 還想繼續探索？
+
+- [原典與學術閱讀](../readings.qmd)
+- [思想家地圖](../thinkers.qmd)
+
+<div class="series-navigation">[← 返回十八講主題總覽](../course.qmd) · [上一篇：如何比較理論、理解制度變遷](how-to-think.qmd) · [下一篇：發展困境、制度轉型與全球化](transitions.qmd)</div>

@@ -1,0 +1,43 @@
+---
+title: "第三篇｜如何比較理論、理解制度變遷"
+subtitle: "為什麼同一個經濟現象會有不同解釋？制度能否改變？"
+toc: false
+---
+
+<div class="chapter-kicker">PART 03 · 2 LECTURES</div>
+
+## 這一篇要回答什麼？
+
+為什麼同一個經濟現象會有不同解釋？制度能否改變？
+
+<span class="chapter-keywords">因果推論、理論競爭、路徑依賴與制度變遷</span>
+
+## 兩場講座，從不同角度切入
+
+::: {.chapter-grid}
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 09</span>
+
+### 第 9 講｜如果兩位思想家意見相反，該相信誰？
+
+學者爭論時，我們如何判斷？
+
+[閱讀這一講 →](../weeks/week-09.qmd)
+:::
+::: {.chapter-card .lecture-card}
+<span class="chapter-kicker">LECTURE 10</span>
+
+### 第 10 講｜制度為什麼難改，卻又一直在變？
+
+制度為什麼會自我強化，又如何改變？
+
+[閱讀這一講 →](../weeks/week-10.qmd)
+:::
+:::
+
+## 還想繼續探索？
+
+- [Smith 與 Marx 理論比較](../compare.qmd)
+- [思想家地圖](../thinkers.qmd)
+
+<div class="series-navigation">[← 返回十八講主題總覽](../course.qmd) · [上一篇：工業化、企業與經濟發展](industry-institutions.qmd) · [下一篇：世界上的不同資本主義](capitalism.qmd)</div>

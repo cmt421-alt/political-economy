@@ -1,172 +1,86 @@
 ---
 title: "政治經濟學十八講"
-subtitle: "從日常生活走進市場、國家與資本主義"
+subtitle: "五個主題篇章，十八個看懂經濟世界的問題"
+toc: false
 ---
 
 ::: {.home-highlight}
-<span class="eyebrow">THE PUBLIC LECTURE SERIES · 18 TALKS</span>
+<span class="eyebrow">POLITICAL ECONOMY · 18 PUBLIC LECTURES</span>
 
-## 十八個問題，帶你看懂經濟世界
+## 從你感興趣的問題開始
 
-從一杯咖啡、一份薪水、一家企業開始，認識市場如何產生、國家如何影響經濟，以及資本主義為何有不同面貌。十八場公開講座連結經典思想、歷史故事與今日世界。每一講都從一個好問題開始，並留下值得繼續思考的開放問題。
+市場如何運作？財富為何不平等？產業為什麼需要國家？全球化又改變了什麼？**十八講分成五個主題篇章**，不必從頭讀到尾。先選擇主題，再進入個別講座，每篇都提供觀念解釋、學者對話與延伸閱讀。
+:::
+
+::: {.chapter-grid}
+::: {.chapter-card}
+<span class="chapter-kicker">PART 01 · 4 LECTURES</span>
+
+### 市場、財富與思想的起點
+
+市場從何而來？誰創造財富？國家又該扮演什麼角色？
+
+<span class="chapter-keywords">自由市場、分工、階級、社會保護與產業政策</span>
+
+[探索這一篇 →](parts/foundations.qmd)
+:::
+::: {.chapter-card}
+<span class="chapter-kicker">PART 02 · 4 LECTURES</span>
+
+### 工業化、企業與經濟發展
+
+從工業革命到亞洲經濟起飛，制度如何影響生產與投資？
+
+<span class="chapter-keywords">工業革命、社會網絡、企業組織、發展型國家</span>
+
+[探索這一篇 →](parts/industry-institutions.qmd)
+:::
+::: {.chapter-card}
+<span class="chapter-kicker">PART 03 · 2 LECTURES</span>
+
+### 如何比較理論、理解制度變遷
+
+為什麼同一個經濟現象會有不同解釋？制度能否改變？
+
+<span class="chapter-keywords">因果推論、理論競爭、路徑依賴與制度變遷</span>
+
+[探索這一篇 →](parts/how-to-think.qmd)
+:::
+::: {.chapter-card}
+<span class="chapter-kicker">PART 04 · 4 LECTURES</span>
+
+### 世界上的不同資本主義
+
+為什麼各國企業、勞資關係與市場規則如此不同？
+
+<span class="chapter-keywords">資本主義類型、企業協調、國家比較、監理與市場規則</span>
+
+[探索這一篇 →](parts/capitalism.qmd)
+:::
+::: {.chapter-card}
+<span class="chapter-kicker">PART 05 · 4 LECTURES</span>
+
+### 發展困境、制度轉型與全球化
+
+貧窮為何持續？市場改革該快還是慢？全球化改變了國家嗎？
+
+<span class="chapter-keywords">國家能力、財產權、轉型路徑、全球化與國家資本主義</span>
+
+[探索這一篇 →](parts/transitions.qmd)
+:::
 :::
 
 ::: {.callout-tip}
-## 怎麼閱讀十八講？
-不需要經濟學背景。每講先讀故事與核心問題，再認識理論，最後挑戰自己的直覺。想深入了解的讀者，可從「延伸閱讀」追溯原著。也可以自由挑選感興趣的主題。
+## 如何閱讀？
+每個主題篇章只列出所屬講座，不必在同一頁瀏覽十八篇。個別講座的網址固定，未來加入圖表、實例、參考資料與延伸專題時，不會打亂閱讀路徑。
 :::
 
-::: {.resource-card}
-**第 1 講｜政治經濟學是什麼？市場真的能自己運作嗎？**
+## 三種閱讀方式
 
-市場是自然存在的交換空間，還是政治與社會制度所建構？
+- **想輕鬆入門：** 從[第一篇：市場與思想](parts/foundations.qmd)開始。
+- **想理解企業和產業：** 直接進入[第二篇：工業化與經濟發展](parts/industry-institutions.qmd)。
+- **對制度和當代議題有興趣：** 可先讀[第四篇：不同資本主義](parts/capitalism.qmd)與[第五篇：全球化與轉型](parts/transitions.qmd)。
 
-[閱讀第 1 講 →](weeks/week-01.qmd)
-:::
+## 深入探索
 
-::: {.resource-card}
-**第 2 講｜亞當・斯密與馬克思：財富從哪裡來？**
-
-市場創造財富的過程，為什麼也可能改變階級與權力？
-
-[閱讀第 2 講 →](weeks/week-02.qmd)
-:::
-
-::: {.resource-card}
-**第 3 講｜波蘭尼：為什麼市場越自由，社會越想保護自己？**
-
-如果市場必須由政治建立，為何市場化會引發社會反作用？
-
-[閱讀第 3 講 →](weeks/week-03.qmd)
-:::
-
-::: {.resource-card}
-**第 4 講｜保護產業還是自由貿易？李斯特與自由主義的辯論**
-
-自由貿易的短期效率，是否必然帶來後進國家的長期生產力？
-
-[閱讀第 4 講 →](weeks/week-04.qmd)
-:::
-
-::: {.resource-card}
-**第 5 講｜工業革命為何首先發生在英國？**
-
-為什麼工業革命發生在英國？後進國家為什麼不能照抄英國道路？
-
-[閱讀第 5 講 →](weeks/week-05.qmd)
-:::
-
-::: {.resource-card}
-**第 6 講｜我們為什麼相信陌生人？**
-
-企業與市場交換為什麼無法只靠價格與契約解釋？
-
-[閱讀第 6 講 →](weeks/week-06.qmd)
-:::
-
-::: {.resource-card}
-**第 7 講｜企業為什麼不把所有事情交給市場？**
-
-既然有市場交易，為什麼企業仍然存在？
-
-[閱讀第 7 講 →](weeks/week-07.qmd)
-:::
-
-::: {.resource-card}
-**第 8 講｜日本、韓國與台灣為何快速工業化？**
-
-為何東亞快速工業化，而許多拉美國家長期受困？
-
-[閱讀第 8 講 →](weeks/week-08.qmd)
-:::
-
-::: {.resource-card}
-**第 9 講｜如果兩位思想家意見相反，該相信誰？**
-
-如何把思想家的論點轉成可以檢驗的研究問題？
-
-[閱讀第 9 講 →](weeks/week-09.qmd)
-:::
-
-::: {.resource-card}
-**第 10 講｜制度為什麼難改，卻又一直在變？**
-
-制度如何在看似穩定的情況下持續改變？
-
-[閱讀第 10 講 →](weeks/week-10.qmd)
-:::
-
-::: {.resource-card}
-**第 11 講｜世界上真的只有一種資本主義嗎？**
-
-國家、企業與制度如何共同塑造不同資本主義？
-
-[閱讀第 11 講 →](weeks/week-11.qmd)
-:::
-
-::: {.resource-card}
-**第 12 講｜美國與德國的企業為何如此不同？**
-
-企業如何因不同制度環境而採取不同策略？
-
-[閱讀第 12 講 →](weeks/week-12.qmd)
-:::
-
-::: {.resource-card}
-**第 13 講｜美國、德國與日本：資本主義的三種面貌**
-
-制度是否隨全球化趨同，還是沿既有道路調整？
-
-[閱讀第 13 講 →](weeks/week-13.qmd)
-:::
-
-::: {.resource-card}
-**第 14 講｜為什麼市場自由化之後，規則反而更多？**
-
-市場自由化是否意味政府退場，還是改變治理形式？
-
-[閱讀第 14 講 →](weeks/week-14.qmd)
-:::
-
-::: {.resource-card}
-**第 15 講｜窮國為何不容易變富？**
-
-貧窮國家缺乏的是市場自由，還是建立市場的制度能力？
-
-[閱讀第 15 講 →](weeks/week-15.qmd)
-:::
-
-::: {.resource-card}
-**第 16 講｜從計畫經濟走向市場，應該快還是慢？**
-
-建立市場制度有沒有最佳改革順序？
-
-[閱讀第 16 講 →](weeks/week-16.qmd)
-:::
-
-::: {.resource-card}
-**第 17 講｜全球化讓國家退場了嗎？**
-
-全球化削弱國家，還是改變國家參與資本主義的方式？
-
-[閱讀第 17 講 →](weeks/week-17.qmd)
-:::
-
-::: {.resource-card}
-**第 18 講｜十八講之後：我們如何看懂經濟新聞？**
-
-如何將政治經濟學理論轉化為可累積、可反駁的研究？
-
-[閱讀第 18 講 →](weeks/week-18.qmd)
-:::
-
-
-## 三本重要的閱讀伙伴
-
-**Niall Kishtainy，《A Little History of Economics》**：以故事與人物介紹經濟思想的歷史，提供每一講的通俗敘事靈感。
-
-**James A. Caporaso 與 David P. Levine，《Theories of Political Economy》**：幫助我們從古典、馬克思、凱因斯、新古典、權力、國家與正義等不同進路，分析同一個經濟問題。它是理論比較的骨架，而不是本系列的逐章改寫。[@caporaso1992]
-
-**經典原典與後續研究**：重要主張仍應以相關學者原著與可核對研究資料為準。本站自行撰寫解說，不複製受保護的書籍章節。
-
-[了解經濟思想家地圖 →](thinkers.qmd) · [閱讀參考文獻 →](readings.qmd)
+本系列結合經濟思想史的敘事方式與比較政治經濟學的理論問題。Niall Kishtainy 的 *A Little History of Economics* 提供歷史故事的啟發；James A. Caporaso 與 David P. Levine 的 *Theories of Political Economy* 協助比較市場、國家與權力的不同解釋。讀者可從[思想家地圖](thinkers.qmd)和[閱讀資源](readings.qmd)繼續探索。

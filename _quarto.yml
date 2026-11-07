@@ -23,6 +23,18 @@ website:
             text: "02 · Karl Marx"
           - href: compare.qmd
             text: "03 · 理論比較"
+      - text: 主題分類
+        menu:
+          - href: parts/foundations.qmd
+            text: "第一篇 · 市場、財富與思想的起點"
+          - href: parts/industry-institutions.qmd
+            text: "第二篇 · 工業化、企業與經濟發展"
+          - href: parts/how-to-think.qmd
+            text: "第三篇 · 如何比較理論、理解制度變遷"
+          - href: parts/capitalism.qmd
+            text: "第四篇 · 世界上的不同資本主義"
+          - href: parts/transitions.qmd
+            text: "第五篇 · 發展困境、制度轉型與全球化"
       - href: thinkers.qmd
         text: 思想家地圖
       - href: readings.qmd

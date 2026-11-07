@@ -36,7 +36,8 @@ Evans 強調國家需要有別於私人利益的自主能力，同時與企業�
 
 | 分析面向 | 值得探索的問題 |
 |---|---|
-| 出發的問題 | 為何東亞快速工業化，而許多拉美國家長期受困？ | | 核心觀念 | 中心邊陲、發展型國家、嵌入自主性 在什麼情況下能幫助我們理解現實？ |
+| 出發的問題 | 為何東亞快速工業化，而許多拉美國家長期受困？ |
+| 核心觀念 | 中心邊陲、發展型國家、嵌入自主性 在什麼情況下能幫助我們理解現實？ |
 | 如何辨認證據 | 釐清分析層次、時序、可觀察證據與競爭解釋。 |
 | 生活中的應用 | 選擇歷史或當代實例，區分作者主張與自己的推論。 |
 
@@ -58,10 +59,4 @@ Caporaso 與 Levine 的《Theories of Political Economy》將經濟問題分別�
 1. 國家干預的有效性是否取決於官僚制度而非干預規模？
 2. Frank 的依賴理論與 Evans 的嵌入自主性如何解釋東亞？
 
-## 所整合的原始資料
-
-- `CPE-Fall-2014-Syllabus.docx`
-- `NIEs.docx`
-- `Week 14 Dependency Theory and the Newly Industrializing Economies(1).docx`
-
-[返回十八講總覽](../course.qmd) · [上一講](week-07.qmd) · [下一講](week-09.qmd)
+[← 本篇主題](../parts/industry-institutions.qmd) · [十八講總覽](../course.qmd) · [上一講](week-07.qmd) · [下一講](week-09.qmd)

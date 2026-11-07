@@ -55,9 +55,4 @@ subtitle: "政治經濟學十八講 · 開放閱讀"
 1. 當我們說市場需要規則，最小的必要規則是什麼？
 2. 怎麼設計一個比較研究，檢驗制度而非僅以經濟發展程度解釋差異？
 
-## 所整合的原始資料
-
-- `CPE-Fall-2014-Syllabus.docx`
-- `Week 2 Intro.docx`
-
-[返回十八講總覽](../course.qmd) · [下一講](week-02.qmd)
+[← 本篇主題](../parts/foundations.qmd) · [十八講總覽](../course.qmd) · [下一講](week-02.qmd)

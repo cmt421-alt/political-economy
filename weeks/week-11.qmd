@@ -3,13 +3,11 @@ title: "第 11 講｜世界上真的只有一種資本主義嗎？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 11 · POLITICAL ECONOMY</span>
-
-## 國家、企業與制度如何共同塑造不同資本主義？
-
-有些國家靠大企業、有些依賴創業家、有些政府深入引導產業。哪種安排更能創造繁榮？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 11 · POLITICAL ECONOMY</p>
+<h2>國家、企業與制度如何共同塑造不同資本主義？</h2>
+<p>有些國家靠大企業、有些依賴創業家、有些政府深入引導產業。哪種安排更能創造繁榮？</p>
+</div>
 
 **這一講的關鍵字：** 市場創造 · 四種資本主義 · 制度創業家
 

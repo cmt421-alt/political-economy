@@ -3,13 +3,11 @@ title: "第 7 講｜企業為什麼不把所有事情交給市場？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 07 · POLITICAL ECONOMY</span>
-
-## 既然有市場交易，為什麼企業仍然存在？
-
-買賣交易看似容易，但尋找供應商、訂契約和監督品質都要花成本。企業的存在因此有了不同解釋。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 07 · POLITICAL ECONOMY</p>
+<h2>既然有市場交易，為什麼企業仍然存在？</h2>
+<p>買賣交易看似容易，但尋找供應商、訂契約和監督品質都要花成本。企業的存在因此有了不同解釋。</p>
+</div>
 
 **這一講的關鍵字：** 交易成本 · 財產權 · 資產專用性
 

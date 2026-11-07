@@ -3,13 +3,11 @@ title: "第 9 講｜如果兩位思想家意見相反，該相信誰？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 09 · POLITICAL ECONOMY</span>
-
-## 如何把思想家的論點轉成可以檢驗的研究問題？
-
-理論不只是標準答案。把市場、國家、階級與制度放在同一個案例中，才能比較不同解釋。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 09 · POLITICAL ECONOMY</p>
+<h2>如何把思想家的論點轉成可以檢驗的研究問題？</h2>
+<p>理論不只是標準答案。把市場、國家、階級與制度放在同一個案例中，才能比較不同解釋。</p>
+</div>
 
 **這一講的關鍵字：** 比較論證 · 因果機制 · 反事實
 

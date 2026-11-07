@@ -3,13 +3,11 @@ title: "第 8 講｜日本、韓國與台灣為何快速工業化？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-marx}
-<span class="lesson-eyebrow">LECTURE 08 · POLITICAL ECONOMY</span>
-
-## 為何東亞快速工業化，而許多拉美國家長期受困？
-
-同樣面對國際競爭，為什麼有些國家能迅速升級產業，另一些卻難以擺脫原料出口？
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 08 · POLITICAL ECONOMY</p>
+<h2>為何東亞快速工業化，而許多拉美國家長期受困？</h2>
+<p>同樣面對國際競爭，為什麼有些國家能迅速升級產業，另一些卻難以擺脫原料出口？</p>
+</div>
 
 **這一講的關鍵字：** 中心邊陲 · 發展型國家 · 嵌入自主性
 

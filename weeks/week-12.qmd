@@ -3,13 +3,11 @@ title: "第 12 講｜美國與德國的企業為何如此不同？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 12 · POLITICAL ECONOMY</span>
-
-## 企業如何因不同制度環境而採取不同策略？
-
-企業要取得資金、培養員工和連結供應商。不同制度可能讓企業選擇不同的競爭方式。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 12 · POLITICAL ECONOMY</p>
+<h2>企業如何因不同制度環境而採取不同策略？</h2>
+<p>企業要取得資金、培養員工和連結供應商。不同制度可能讓企業選擇不同的競爭方式。</p>
+</div>
 
 **這一講的關鍵字：** 協調問題 · 制度互補 · 比較制度優勢
 

@@ -3,13 +3,11 @@ title: "第 10 講｜制度為什麼難改，卻又一直在變？"
 subtitle: "政治經濟學十八講 · 開放閱讀"
 ---
 
-::: {.lesson-banner lesson-smith}
-<span class="lesson-eyebrow">LECTURE 10 · POLITICAL ECONOMY</span>
-
-## 制度如何在看似穩定的情況下持續改變？
-
-看似固定的法律與規則，會因新的解釋、環境變動與行動者策略而產生不同效果。
-:::
+<div class="public-lecture-intro">
+<p class="lecture-eyebrow">LECTURE 10 · POLITICAL ECONOMY</p>
+<h2>制度如何在看似穩定的情況下持續改變？</h2>
+<p>看似固定的法律與規則，會因新的解釋、環境變動與行動者策略而產生不同效果。</p>
+</div>
 
 **這一講的關鍵字：** 歷史制度主義 · 關鍵時刻 · 層疊、漂移、轉換
 
